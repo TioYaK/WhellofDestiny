@@ -24,14 +24,14 @@ const EquipTab: React.FC = () => {
       <div className="config-card" style={{gridColumn: '1 / -1', background: 'rgba(234, 179, 8, 0.05)', border: '1px solid rgba(234, 179, 8, 0.2)'}}>
          <h3 style={{color: '#eab308'}}>🤖 AI Gear Advisor</h3>
          <p style={{fontSize: '13px', color: 'var(--text-muted)', marginBottom: '10px'}}>Scan the entire item database to find the highest DPS upgrade for your current box setup.</p>
-         <button className="btn" style={{background: '#eab308', color: '#000'}} onClick={() => (window as any).runAIAdvisor && (window as any).runAIAdvisor()}>Scan Armor Upgrades</button>
+         <button className="btn" style={{background: '#eab308', color: '#000'}} onClick={runAI}>Scan Armor Upgrades</button>
       </div>
 
       <div className="equip-grid" style={{marginTop: '20px'}}>
         <div id="paperdoll-react" style={{display: 'flex', flexDirection: 'column', gap: '10px', width: '100%'}}>
           {slots.map(slotType => {
             const availableItems = Object.values(ITEM_DATABASE).filter(item => 
-              item.slot === slotType && (item.vocations || []).includes(vocation)
+              item.slot === slotType && (!item.vocations || item.vocations.length === 0 || item.vocations.includes(vocation))
             );
             
             const activeItem = activeGear[slotType.toLowerCase() as keyof typeof activeGear]?.item;
