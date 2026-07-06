@@ -283,8 +283,7 @@ select option {
 }
 
 /* PANELS */
-.tab-panel { display: none; animation: fadeIn 0.3s ease; }
-.tab-panel.active { display: block; }
+.tab-panel { display: block; animation: fadeIn 0.3s ease; }
 @keyframes fadeIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
 
 /* WHEEL OF DESTINY SVG */
