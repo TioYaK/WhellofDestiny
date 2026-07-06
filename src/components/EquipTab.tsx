@@ -28,7 +28,7 @@ const EquipTab: React.FC = () => {
         <div id="paperdoll-react" style={{display: 'flex', flexDirection: 'column', gap: '10px', width: '100%'}}>
           {slots.map(slotType => {
             const availableItems = Object.values(ITEM_DATABASE).filter(item => 
-              item.slot === slotType && item.vocations.includes(vocation)
+              item.slot === slotType && (item.vocations || []).includes(vocation)
             );
             
             const activeItem = activeGear[slotType.toLowerCase() as keyof typeof activeGear]?.item;

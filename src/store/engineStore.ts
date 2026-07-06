@@ -139,10 +139,11 @@ export const useEngineStore = create<EngineState>((set, get) => ({
   }),
   
   setLevel: (level) => set(state => {
-    // Update internal wheel manager level when level changes
+    // Update internal wheel manager level when level changes and force reference update
     const wheel = state.wheelManager;
     (wheel as any).playerLevel = level;
-    return { level };
+    const newWheel = Object.assign(Object.create(Object.getPrototypeOf(wheel)), wheel);
+    return { level, wheelManager: newWheel };
   }),
   
   setBaseSkill: (skill, value) => set(state => ({
