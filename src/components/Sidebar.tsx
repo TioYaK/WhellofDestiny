@@ -4,6 +4,7 @@ import { Vocation } from '../types/combat';
 import { useSimulation } from '../hooks/useSimulation';
 import { BuildCodec } from '../core/buildCodec';
 import BoxConfig from './BoxConfig';
+import TacticsConfig from './TacticsConfig';
 
 const Sidebar: React.FC = () => {
   const store = useEngineStore();
@@ -143,6 +144,7 @@ const Sidebar: React.FC = () => {
         <p className="help-text">Select your target Hunt Box below to calculate DPS vs Armor & Resistances.</p>
         
         <BoxConfig />
+        <TacticsConfig />
         
         <div className="engine-actions">
           <button id="btn-run-simulation" className="btn btn-primary" onClick={run}>Run Simulation</button>

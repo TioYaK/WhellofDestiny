@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import { Vocation, EquipmentSlot, IGearSetup, CharmType, IGemState, IPartySynergy } from '../types/combat';
+import { Vocation, EquipmentSlot, IGearSetup, CharmType, IGemState, IPartySynergy, PlayerStance } from '../types/combat';
 import { Quadrant, TibiaWheelManager } from '../core/TibiaWheelManager';
 import { getVocationDefaultWheelNodes } from '../core/wheelDatabase';
 
@@ -56,6 +56,16 @@ interface EngineState {
   setSpellPriority: (spells: string[]) => void;
   reorderSpell: (currentIndex: number, direction: 'UP' | 'DOWN') => void;
   
+  // Tactics & Buffs
+  playerStance: PlayerStance;
+  setPlayerStance: (stance: PlayerStance) => void;
+  harmonyActive: boolean;
+  setHarmonyActive: (active: boolean) => void;
+  weaponProficiency: number;
+  setWeaponProficiency: (level: number) => void;
+  staticBuffs: { mastermind: boolean, bullseye: boolean, cupcake: boolean, renown: number };
+  setStaticBuffs: (buffs: Partial<EngineState['staticBuffs']>) => void;
+  
   // Actions
   setVocation: (voc: Vocation) => void;
   setLevel: (level: number) => void;
@@ -87,7 +97,16 @@ export const useEngineStore = create<EngineState>((set, get) => ({
   activeBoxConfig: [],
   partySynergy: { exposeFlaw: false, sapStrength: false, sioHeal: 0, divineDazzle: false },
   
-  lureTime: 10,
+  playerStance: PlayerStance.OPEN_FIELD,
+  setPlayerStance: (s) => set({ playerStance: s }),
+  harmonyActive: false,
+  setHarmonyActive: (h) => set({ harmonyActive: h }),
+  weaponProficiency: 0,
+  setWeaponProficiency: (p) => set({ weaponProficiency: p }),
+  staticBuffs: { mastermind: false, bullseye: false, cupcake: false, renown: 0 },
+  setStaticBuffs: (buffs) => set((state) => ({ staticBuffs: { ...state.staticBuffs, ...buffs } })),
+  
+  lureTime: 0,
   setLureTime: (s: number) => set({ lureTime: s }),
   
   wheelManager: new TibiaWheelManager(1000, 0, getVocationDefaultWheelNodes(Vocation.KNIGHT)),

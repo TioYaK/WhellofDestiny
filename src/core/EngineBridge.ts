@@ -14,6 +14,10 @@ export interface IEngineStateData {
   wheelManager: TibiaWheelManager;
   spellPriority: string[];
   gemSockets?: any;
+  playerStance?: PlayerStance;
+  harmonyActive?: boolean;
+  weaponProficiency?: number;
+  staticBuffs?: { mastermind: boolean, bullseye: boolean, cupcake: boolean, renown: number };
 }
 
 export class EngineBridge {
@@ -46,8 +50,8 @@ export class EngineBridge {
     return gemMods;
   }
 
-  private static getStance() {
-    return PlayerStance.OPEN_FIELD;
+  private static getStance(state: IEngineStateData) {
+    return state.playerStance || PlayerStance.OPEN_FIELD;
   }
 
   public static buildPlayerAttributes(state: IEngineStateData): IPlayerAttributes {
@@ -57,6 +61,14 @@ export class EngineBridge {
     if (vocation === 'KNIGHT') baseSkill = baseSkills.sword;
     else if (vocation === 'PALADIN') baseSkill = baseSkills.distance;
     else baseSkill = baseSkills.magic;
+
+    let combatBuffBonus = 0;
+    if (state.staticBuffs) {
+       combatBuffBonus += state.staticBuffs.renown;
+       if (state.staticBuffs.cupcake) combatBuffBonus += 5;
+       if (state.staticBuffs.mastermind && vocation !== 'KNIGHT' && vocation !== 'PALADIN') combatBuffBonus += 3;
+       if (state.staticBuffs.bullseye && vocation === 'PALADIN') combatBuffBonus += 5;
+    }
 
     let eqBonusSkill = 0;
     let totalCritChance = 0;
@@ -118,16 +130,16 @@ export class EngineBridge {
       level: level,
       baseSkill: baseSkill,
       equipmentBonusSkill: eqBonusSkill,
-      combatBuffBonusSkill: 0, 
+      combatBuffBonusSkill: combatBuffBonus, 
       critChance: totalCritChance,
       critMultiplier: totalCritMulti,
       forgeRuptureChance: 0,
       lifeLeechPercent: totalLifeLeech,
       manaLeechPercent: totalManaLeech,
       promotionScrollPoints: 0,
-      stance: this.getStance(),
-      harmonyActive: false,
-      weaponProficiencyLevel: 0,
+      stance: this.getStance(state),
+      harmonyActive: state.harmonyActive || false,
+      weaponProficiencyLevel: state.weaponProficiency || 0,
       activeBuffs: [], 
       weapon: mainWeapon,
       gear: activeGear,

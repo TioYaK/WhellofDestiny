@@ -518,6 +518,24 @@ export class TibiaClockEngine {
       return;
     }
 
+    if (spell.group === 'SUPPORT') {
+      if (!this.player.activeBuffs) this.player.activeBuffs = [];
+      if (spell.name === 'Blood Rage') {
+        const bonus = Math.floor(this.player.baseSkill * 0.35);
+        this.player.activeBuffs.push({ name: 'Blood Rage', bonusSkill: bonus, expiresAtTickMs: this.currentTickMs + 10000 });
+        this.player.combatBuffBonusSkill += bonus;
+        this.log(`[Buff] Blood Rage ativado! +${bonus} skill por 10s.`);
+      } else if (spell.name === 'Sharpshooter') {
+        const bonus = Math.floor(this.player.baseSkill * 0.50);
+        this.player.activeBuffs.push({ name: 'Sharpshooter', bonusSkill: bonus, expiresAtTickMs: this.currentTickMs + 10000 });
+        this.player.combatBuffBonusSkill += bonus;
+        this.log(`[Buff] Sharpshooter ativado! +${bonus} skill por 10s.`);
+      } else {
+        this.log(`[Support] Casted ${spell.name}`);
+      }
+      return;
+    }
+
     let targets: IMonsterAI[] = [];
     const boxTargets = this.screenState.activeBox.filter(t => t !== null && t !== 'BLOCKED') as IMonsterAI[];
     
