@@ -3,6 +3,7 @@ import { useEngineStore } from '../store/engineStore';
 import { Vocation } from '../types/combat';
 import { useSimulation } from '../hooks/useSimulation';
 import { BuildCodec } from '../core/buildCodec';
+import BoxConfig from './BoxConfig';
 
 const Sidebar: React.FC = () => {
   const store = useEngineStore();
@@ -141,8 +142,7 @@ const Sidebar: React.FC = () => {
         <h2>Simulator Controls</h2>
         <p className="help-text">Select your target Hunt Box below to calculate DPS vs Armor & Resistances.</p>
         
-        {/* Hunt Box Container (Legacy mount point, will be Reactified soon) */}
-        <div id="hunt-setup-container"></div>
+        <BoxConfig />
         
         <div className="engine-actions">
           <button id="btn-run-simulation" className="btn btn-primary" onClick={run}>Run Simulation</button>
