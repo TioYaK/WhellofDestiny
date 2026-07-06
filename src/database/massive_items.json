@@ -1,0 +1,6219 @@
+{
+  "charmer_s_tiara": {
+    "id": "charmer_s_tiara",
+    "name": "Charmer's Tiara",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "spellbook_of_lost_souls": {
+    "id": "spellbook_of_lost_souls",
+    "name": "Spellbook of Lost Souls",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 32,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "toga_mortis": {
+    "id": "toga_mortis",
+    "name": "Toga Mortis",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "umbral_spellbook": {
+    "id": "umbral_spellbook",
+    "name": "Umbral Spellbook",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 26,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "golden_legs": {
+    "id": "golden_legs",
+    "name": "Golden Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "stoic_iks_robe": {
+    "id": "stoic_iks_robe",
+    "name": "Stoic Iks Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "tribal_mask": {
+    "id": "tribal_mask",
+    "name": "Tribal Mask",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "broken_wedding_ring": {
+    "id": "broken_wedding_ring",
+    "name": "Broken Wedding Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "spellbook_of_ancient_arcana": {
+    "id": "spellbook_of_ancient_arcana",
+    "name": "Spellbook of Ancient Arcana",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 31,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "sandals": {
+    "id": "sandals",
+    "name": "Sandals",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "crown_helmet": {
+    "id": "crown_helmet",
+    "name": "Crown Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "ferumbras__candy_hat": {
+    "id": "ferumbras__candy_hat",
+    "name": "Ferumbras' Candy Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "steel_boots": {
+    "id": "steel_boots",
+    "name": "Steel Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "draken_chestplate": {
+    "id": "draken_chestplate",
+    "name": "Draken Chestplate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "demon_armor": {
+    "id": "demon_armor",
+    "name": "Demon Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0
+  },
+  "tempest_shield": {
+    "id": "tempest_shield",
+    "name": "Tempest Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 47,
+    "attack": 0
+  },
+  "leather_legs": {
+    "id": "leather_legs",
+    "name": "Leather Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "tower_shield": {
+    "id": "tower_shield",
+    "name": "Tower Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 42,
+    "attack": 0
+  },
+  "sanguine_galoshes": {
+    "id": "sanguine_galoshes",
+    "name": "Sanguine Galoshes",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "eldritch_monk_boots": {
+    "id": "eldritch_monk_boots",
+    "name": "Eldritch Monk Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "oceanborn_leviathan_armor": {
+    "id": "oceanborn_leviathan_armor",
+    "name": "Oceanborn Leviathan Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0
+  },
+  "glooth_cape": {
+    "id": "glooth_cape",
+    "name": "Glooth Cape",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "skullcracker_armor": {
+    "id": "skullcracker_armor",
+    "name": "Skullcracker Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 14,
+    "defense": 0,
+    "attack": 0
+  },
+  "buckle": {
+    "id": "buckle",
+    "name": "Buckle",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0
+  },
+  "spirit_bind": {
+    "id": "spirit_bind",
+    "name": "Spirit Bind",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "helmet_of_nature": {
+    "id": "helmet_of_nature",
+    "name": "Helmet of Nature",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "umbral_master_spellbook": {
+    "id": "umbral_master_spellbook",
+    "name": "Umbral Master Spellbook",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 32,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "eerie_song_book": {
+    "id": "eerie_song_book",
+    "name": "Eerie Song Book",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "reflecting_crown": {
+    "id": "reflecting_crown",
+    "name": "Reflecting Crown",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "crystalline_armor": {
+    "id": "crystalline_armor",
+    "name": "Crystalline Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 13,
+    "defense": 0,
+    "attack": 0
+  },
+  "spiritthorn_armor": {
+    "id": "spiritthorn_armor",
+    "name": "Spiritthorn Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 20,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 4,
+      "axe": 4,
+      "club": 4
+    }
+  },
+  "adamant_shield": {
+    "id": "adamant_shield",
+    "name": "Adamant Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "magician_s_robe": {
+    "id": "magician_s_robe",
+    "name": "Magician's Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "vampire_s_signet_ring": {
+    "id": "vampire_s_signet_ring",
+    "name": "Vampire's Signet Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "bear_skin": {
+    "id": "bear_skin",
+    "name": "Bear Skin",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "frozen_plate": {
+    "id": "frozen_plate",
+    "name": "Frozen Plate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 13,
+    "defense": 0,
+    "attack": 0
+  },
+  "plain_monk_robe": {
+    "id": "plain_monk_robe",
+    "name": "Plain Monk Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "burial_shroud": {
+    "id": "burial_shroud",
+    "name": "Burial Shroud",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "amazon_helmet": {
+    "id": "amazon_helmet",
+    "name": "Amazon Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "dwarven_shield": {
+    "id": "dwarven_shield",
+    "name": "Dwarven Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 34,
+    "attack": 0
+  },
+  "ornate_testtplate": {
+    "id": "ornate_testtplate",
+    "name": "Ornate Testtplate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "broken_iks_faulds": {
+    "id": "broken_iks_faulds",
+    "name": "Broken Iks Faulds",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "windborn_colossus_armor": {
+    "id": "windborn_colossus_armor",
+    "name": "Windborn Colossus Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "club": 2
+    }
+  },
+  "terra_mantle": {
+    "id": "terra_mantle",
+    "name": "Terra Mantle",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "magma_monocle": {
+    "id": "magma_monocle",
+    "name": "Magma Monocle",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "mystical_dragon_robe": {
+    "id": "mystical_dragon_robe",
+    "name": "Mystical Dragon Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "earthmind_raiment": {
+    "id": "earthmind_raiment",
+    "name": "Earthmind Raiment",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "castle_shield": {
+    "id": "castle_shield",
+    "name": "Castle Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 37,
+    "attack": 0
+  },
+  "spiritthorn_ring": {
+    "id": "spiritthorn_ring",
+    "name": "Spiritthorn Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "vampire_shield": {
+    "id": "vampire_shield",
+    "name": "Vampire Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 45,
+    "attack": 0
+  },
+  "winged_boots": {
+    "id": "winged_boots",
+    "name": "Winged Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 1
+    }
+  },
+  "blister_ring": {
+    "id": "blister_ring",
+    "name": "Blister Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "gill_gugel": {
+    "id": "gill_gugel",
+    "name": "Gill Gugel",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "shapeshifter_ring": {
+    "id": "shapeshifter_ring",
+    "name": "Shapeshifter Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "moonsilver_trail_hood": {
+    "id": "moonsilver_trail_hood",
+    "name": "Moonsilver Trail Hood",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2,
+      "distance": 4
+    }
+  },
+  "the_shield_nevermourn": {
+    "id": "the_shield_nevermourn",
+    "name": "The Shield Nevermourn",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 33,
+    "attack": 0
+  },
+  "ceremonial_mask": {
+    "id": "ceremonial_mask",
+    "name": "Ceremonial Mask",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "studded_shield": {
+    "id": "studded_shield",
+    "name": "Studded Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 20,
+    "attack": 0
+  },
+  "native_armor": {
+    "id": "native_armor",
+    "name": "Native Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "black_shield": {
+    "id": "black_shield",
+    "name": "Black Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 24,
+    "attack": 0
+  },
+  "plate_shield": {
+    "id": "plate_shield",
+    "name": "Plate Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 23,
+    "attack": 0
+  },
+  "fireheart_hauberk": {
+    "id": "fireheart_hauberk",
+    "name": "Fireheart Hauberk",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "axe": 4
+    }
+  },
+  "dark_shield": {
+    "id": "dark_shield",
+    "name": "Dark Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 33,
+    "attack": 0
+  },
+  "tatty_dragon_scale_legs": {
+    "id": "tatty_dragon_scale_legs",
+    "name": "Tatty Dragon Scale Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "death_oyoroi": {
+    "id": "death_oyoroi",
+    "name": "Death Oyoroi",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "ferumbras__hat": {
+    "id": "ferumbras__hat",
+    "name": "Ferumbras' Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "pair_of_soft_boots": {
+    "id": "pair_of_soft_boots",
+    "name": "Pair of Soft Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "painted_gourd_rattle": {
+    "id": "painted_gourd_rattle",
+    "name": "Painted Gourd Rattle",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "ball_gown": {
+    "id": "ball_gown",
+    "name": "Ball Gown",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "charged_arcanomancer_sigil": {
+    "id": "charged_arcanomancer_sigil",
+    "name": "Charged Arcanomancer Sigil",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "cocoa_grimoire": {
+    "id": "cocoa_grimoire",
+    "name": "Cocoa Grimoire",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 31,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "krimhorn_helmet": {
+    "id": "krimhorn_helmet",
+    "name": "Krimhorn Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "salamander_shield": {
+    "id": "salamander_shield",
+    "name": "Salamander Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 34,
+    "attack": 0
+  },
+  "devil_helmet": {
+    "id": "devil_helmet",
+    "name": "Devil Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "golden_crown": {
+    "id": "golden_crown",
+    "name": "Golden Crown",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "makeshift_boots": {
+    "id": "makeshift_boots",
+    "name": "Makeshift Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "helmet_of_the_ancients__enchanted_": {
+    "id": "helmet_of_the_ancients__enchanted_",
+    "name": "Helmet of the Ancients (Enchanted)",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "the_epic_wisdom": {
+    "id": "the_epic_wisdom",
+    "name": "The Epic Wisdom",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "dragon_scale_boots": {
+    "id": "dragon_scale_boots",
+    "name": "Dragon Scale Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "thundersoul_tabard": {
+    "id": "thundersoul_tabard",
+    "name": "Thundersoul Tabard",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 4
+    }
+  },
+  "earthheart_platemail": {
+    "id": "earthheart_platemail",
+    "name": "Earthheart Platemail",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "club": 4
+    }
+  },
+  "phoenix_shield": {
+    "id": "phoenix_shield",
+    "name": "Phoenix Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 45,
+    "attack": 0
+  },
+  "eldritch_breeches": {
+    "id": "eldritch_breeches",
+    "name": "Eldritch Breeches",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "eldritch_shield": {
+    "id": "eldritch_shield",
+    "name": "Eldritch Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 51,
+    "attack": 0
+  },
+  "doublet": {
+    "id": "doublet",
+    "name": "Doublet",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "helmet_of_the_ancients": {
+    "id": "helmet_of_the_ancients",
+    "name": "Helmet of the Ancients",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "hat_of_the_mad": {
+    "id": "hat_of_the_mad",
+    "name": "Hat of the Mad",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "sedge_hat": {
+    "id": "sedge_hat",
+    "name": "Sedge Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "flower_wreath": {
+    "id": "flower_wreath",
+    "name": "Flower Wreath",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "eldritch_tome": {
+    "id": "eldritch_tome",
+    "name": "Eldritch Tome",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 34,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "gnome_legs": {
+    "id": "gnome_legs",
+    "name": "Gnome Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "gnomish_cuirass": {
+    "id": "gnomish_cuirass",
+    "name": "Gnomish Cuirass",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "horned_helmet": {
+    "id": "horned_helmet",
+    "name": "Horned Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "bast_legs": {
+    "id": "bast_legs",
+    "name": "Bast Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "dawnfire_sherwani": {
+    "id": "dawnfire_sherwani",
+    "name": "Dawnfire Sherwani",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "batwing_hat": {
+    "id": "batwing_hat",
+    "name": "Batwing Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "moonsilver_strike_helm": {
+    "id": "moonsilver_strike_helm",
+    "name": "Moonsilver Strike Helm",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "spellbook_of_mind_control": {
+    "id": "spellbook_of_mind_control",
+    "name": "Spellbook of Mind Control",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 26,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "demon_helmet": {
+    "id": "demon_helmet",
+    "name": "Demon Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0
+  },
+  "metal_spats": {
+    "id": "metal_spats",
+    "name": "Metal Spats",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "green_tunic": {
+    "id": "green_tunic",
+    "name": "Green Tunic",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "the_rain_coat": {
+    "id": "the_rain_coat",
+    "name": "The Rain Coat",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "alchemist_s_boots": {
+    "id": "alchemist_s_boots",
+    "name": "Alchemist's Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "death_gaze": {
+    "id": "death_gaze",
+    "name": "Death Gaze",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 50,
+    "attack": 0
+  },
+  "cobra_hood": {
+    "id": "cobra_hood",
+    "name": "Cobra Hood",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 1,
+      "axe": 1,
+      "club": 1
+    }
+  },
+  "dwarven_helmet": {
+    "id": "dwarven_helmet",
+    "name": "Dwarven Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "fur_armor": {
+    "id": "fur_armor",
+    "name": "Fur Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "swan_feather_cloak": {
+    "id": "swan_feather_cloak",
+    "name": "Swan Feather Cloak",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0
+  },
+  "gnome_helmet": {
+    "id": "gnome_helmet",
+    "name": "Gnome Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "dark_armor": {
+    "id": "dark_armor",
+    "name": "Dark Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0
+  },
+  "yalahari_armor": {
+    "id": "yalahari_armor",
+    "name": "Yalahari Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0
+  },
+  "ring_of_secret_thoughts": {
+    "id": "ring_of_secret_thoughts",
+    "name": "Ring of Secret Thoughts",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "chain_helmet": {
+    "id": "chain_helmet",
+    "name": "Chain Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "make_do_boots": {
+    "id": "make_do_boots",
+    "name": "Make-Do Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "pirate_knee_breeches": {
+    "id": "pirate_knee_breeches",
+    "name": "Pirate Knee Breeches",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "tiara_of_power": {
+    "id": "tiara_of_power",
+    "name": "Tiara of Power",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "charged_ethereal_ring": {
+    "id": "charged_ethereal_ring",
+    "name": "Charged Ethereal Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "sanguine_greaves": {
+    "id": "sanguine_greaves",
+    "name": "Sanguine Greaves",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1,
+      "distance": 4
+    }
+  },
+  "tunic": {
+    "id": "tunic",
+    "name": "Tunic",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "master_archer_s_armor": {
+    "id": "master_archer_s_armor",
+    "name": "Master Archer's Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 3
+    }
+  },
+  "fur_boots": {
+    "id": "fur_boots",
+    "name": "Fur Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "unstable_ring_of_ending": {
+    "id": "unstable_ring_of_ending",
+    "name": "Unstable Ring of Ending",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "stag_shinguards": {
+    "id": "stag_shinguards",
+    "name": "Stag Shinguards",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 1
+    }
+  },
+  "crystal_ring": {
+    "id": "crystal_ring",
+    "name": "Crystal Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "flower_dress": {
+    "id": "flower_dress",
+    "name": "Flower Dress",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "fish_tail__unequipped_": {
+    "id": "fish_tail__unequipped_",
+    "name": "Fish Tail (Unequipped)",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "fireborn_giant_armor": {
+    "id": "fireborn_giant_armor",
+    "name": "Fireborn Giant Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 2
+    }
+  },
+  "dark_helmet": {
+    "id": "dark_helmet",
+    "name": "Dark Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "pair_of_soulstalkers": {
+    "id": "pair_of_soulstalkers",
+    "name": "Pair of Soulstalkers",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 1
+    }
+  },
+  "mooh_tah_plate": {
+    "id": "mooh_tah_plate",
+    "name": "Mooh'tah Plate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0
+  },
+  "bone_shield": {
+    "id": "bone_shield",
+    "name": "Bone Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 26,
+    "attack": 0
+  },
+  "white_dress": {
+    "id": "white_dress",
+    "name": "White Dress",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "brass_helmet": {
+    "id": "brass_helmet",
+    "name": "Brass Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "fireheart_cuirass": {
+    "id": "fireheart_cuirass",
+    "name": "Fireheart Cuirass",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 4
+    }
+  },
+  "studded_helmet": {
+    "id": "studded_helmet",
+    "name": "Studded Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "demon_mengu": {
+    "id": "demon_mengu",
+    "name": "Demon Mengu",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "stag_plate": {
+    "id": "stag_plate",
+    "name": "Stag Plate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 17,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 3
+    }
+  },
+  "eagle_shield": {
+    "id": "eagle_shield",
+    "name": "Eagle Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 42,
+    "attack": 0
+  },
+  "ice_robe": {
+    "id": "ice_robe",
+    "name": "Ice Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "leather_helmet": {
+    "id": "leather_helmet",
+    "name": "Leather Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "ethno_coat": {
+    "id": "ethno_coat",
+    "name": "Ethno Coat",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "shield_of_honour": {
+    "id": "shield_of_honour",
+    "name": "Shield of Honour",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 43,
+    "attack": 0
+  },
+  "bonelord_helmet": {
+    "id": "bonelord_helmet",
+    "name": "Bonelord Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "arboreal_crown": {
+    "id": "arboreal_crown",
+    "name": "Arboreal Crown",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "scale_armor": {
+    "id": "scale_armor",
+    "name": "Scale Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "ring_of_red_plasma": {
+    "id": "ring_of_red_plasma",
+    "name": "Ring of Red Plasma",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 3,
+      "axe": 3,
+      "club": 3
+    }
+  },
+  "ghazbaran_oyoroi": {
+    "id": "ghazbaran_oyoroi",
+    "name": "Ghazbaran Oyoroi",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "dark_wizard_s_crown__activated_": {
+    "id": "dark_wizard_s_crown__activated_",
+    "name": "Dark Wizard's Crown (Activated)",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "lightning_legs": {
+    "id": "lightning_legs",
+    "name": "Lightning Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "legs_of_wisdom": {
+    "id": "legs_of_wisdom",
+    "name": "Legs of Wisdom",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 4,
+    "defense": 0,
+    "attack": 0
+  },
+  "gold_ring": {
+    "id": "gold_ring",
+    "name": "Gold Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "prismatic_ring": {
+    "id": "prismatic_ring",
+    "name": "Prismatic Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "book_of_lies": {
+    "id": "book_of_lies",
+    "name": "Book of Lies",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 29,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "glacier_shoes": {
+    "id": "glacier_shoes",
+    "name": "Glacier Shoes",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "gryphon_mask": {
+    "id": "gryphon_mask",
+    "name": "Gryphon Mask",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "wooden_spellbook": {
+    "id": "wooden_spellbook",
+    "name": "Wooden Spellbook",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 26,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "soulshell": {
+    "id": "soulshell",
+    "name": "Soulshell",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 4
+    }
+  },
+  "nightmare_shield": {
+    "id": "nightmare_shield",
+    "name": "Nightmare Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 49,
+    "attack": 0
+  },
+  "green_demon_slippers": {
+    "id": "green_demon_slippers",
+    "name": "Green Demon Slippers",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "soulful_legs": {
+    "id": "soulful_legs",
+    "name": "Soulful Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "spirit_cloak": {
+    "id": "spirit_cloak",
+    "name": "Spirit Cloak",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "visage_of_the_end_days": {
+    "id": "visage_of_the_end_days",
+    "name": "Visage of the End Days",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0
+  },
+  "rainbow_shield": {
+    "id": "rainbow_shield",
+    "name": "Rainbow Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 39,
+    "attack": 0
+  },
+  "trousers_of_the_ancients": {
+    "id": "trousers_of_the_ancients",
+    "name": "Trousers of the Ancients",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "green_demon_helmet": {
+    "id": "green_demon_helmet",
+    "name": "Green Demon Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0
+  },
+  "earthsoul_tabard": {
+    "id": "earthsoul_tabard",
+    "name": "Earthsoul Tabard",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 4
+    }
+  },
+  "red_robe": {
+    "id": "red_robe",
+    "name": "Red Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "norcferatu_fleshguards": {
+    "id": "norcferatu_fleshguards",
+    "name": "Norcferatu Fleshguards",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "charged_spiritthorn_ring": {
+    "id": "charged_spiritthorn_ring",
+    "name": "Charged Spiritthorn Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 3,
+      "axe": 3,
+      "club": 3
+    }
+  },
+  "enchanted_werewolf_helmet__axe_": {
+    "id": "enchanted_werewolf_helmet__axe_",
+    "name": "Enchanted Werewolf Helmet (Axe)",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "axe": 1
+    }
+  },
+  "belted_cape": {
+    "id": "belted_cape",
+    "name": "Belted Cape",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0
+  },
+  "stag_footwraps": {
+    "id": "stag_footwraps",
+    "name": "Stag Footwraps",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "lion_plate": {
+    "id": "lion_plate",
+    "name": "Lion Plate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 17,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 3,
+      "axe": 3,
+      "club": 3
+    }
+  },
+  "wooden_shield": {
+    "id": "wooden_shield",
+    "name": "Wooden Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 19,
+    "attack": 0
+  },
+  "fabulous_legs": {
+    "id": "fabulous_legs",
+    "name": "Fabulous Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 2,
+      "axe": 2,
+      "club": 2,
+      "distance": 2
+    }
+  },
+  "earthborn_titan_armor": {
+    "id": "earthborn_titan_armor",
+    "name": "Earthborn Titan Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "axe": 2
+    }
+  },
+  "lion_shield": {
+    "id": "lion_shield",
+    "name": "Lion Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 51,
+    "attack": 0
+  },
+  "pair_of_old_bracers": {
+    "id": "pair_of_old_bracers",
+    "name": "Pair of Old Bracers",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "damaged_helmet": {
+    "id": "damaged_helmet",
+    "name": "Damaged Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "ancient_tiara": {
+    "id": "ancient_tiara",
+    "name": "Ancient Tiara",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "brass_armor": {
+    "id": "brass_armor",
+    "name": "Brass Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "sentinel_shield": {
+    "id": "sentinel_shield",
+    "name": "Sentinel Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 29,
+    "attack": 0
+  },
+  "gill_legs": {
+    "id": "gill_legs",
+    "name": "Gill Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "horseman_helmet": {
+    "id": "horseman_helmet",
+    "name": "Horseman Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "icy_rainbow_shield": {
+    "id": "icy_rainbow_shield",
+    "name": "Icy Rainbow Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 51,
+    "attack": 0
+  },
+  "broken_iks_headpiece": {
+    "id": "broken_iks_headpiece",
+    "name": "Broken Iks Headpiece",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "embrace_of_nature": {
+    "id": "embrace_of_nature",
+    "name": "Embrace of Nature",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 4
+    }
+  },
+  "thunderheart_platemail": {
+    "id": "thunderheart_platemail",
+    "name": "Thunderheart Platemail",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "club": 4
+    }
+  },
+  "knight_armor": {
+    "id": "knight_armor",
+    "name": "Knight Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0
+  },
+  "studded_legs": {
+    "id": "studded_legs",
+    "name": "Studded Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "divine_plate": {
+    "id": "divine_plate",
+    "name": "Divine Plate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 13,
+    "defense": 0,
+    "attack": 0
+  },
+  "maliceforged_helmet": {
+    "id": "maliceforged_helmet",
+    "name": "Maliceforged Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 2,
+      "axe": 2,
+      "club": 2
+    }
+  },
+  "zaoan_armor": {
+    "id": "zaoan_armor",
+    "name": "Zaoan Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 13,
+    "defense": 0,
+    "attack": 0
+  },
+  "demon_shield": {
+    "id": "demon_shield",
+    "name": "Demon Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 46,
+    "attack": 0
+  },
+  "dragon_scale_mail": {
+    "id": "dragon_scale_mail",
+    "name": "Dragon Scale Mail",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0
+  },
+  "living_armor": {
+    "id": "living_armor",
+    "name": "Living Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 13,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "stag_legs": {
+    "id": "stag_legs",
+    "name": "Stag Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 3,
+      "axe": 3,
+      "club": 3
+    }
+  },
+  "cobra_crown": {
+    "id": "cobra_crown",
+    "name": "Cobra Crown",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "blue_robe": {
+    "id": "blue_robe",
+    "name": "Blue Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "swamplair_armor": {
+    "id": "swamplair_armor",
+    "name": "Swamplair Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 13,
+    "defense": 0,
+    "attack": 0
+  },
+  "rift_shield": {
+    "id": "rift_shield",
+    "name": "Rift Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 49,
+    "attack": 0
+  },
+  "pair_of_soulwalkers": {
+    "id": "pair_of_soulwalkers",
+    "name": "Pair of Soulwalkers",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 4,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 1,
+      "axe": 1,
+      "club": 1
+    }
+  },
+  "soldier_helmet": {
+    "id": "soldier_helmet",
+    "name": "Soldier Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "lavos_armor": {
+    "id": "lavos_armor",
+    "name": "Lavos Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 13,
+    "defense": 0,
+    "attack": 0
+  },
+  "stoic_iks_cuirass": {
+    "id": "stoic_iks_cuirass",
+    "name": "Stoic Iks Cuirass",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "golden_horned_helmet": {
+    "id": "golden_horned_helmet",
+    "name": "Golden Horned Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "bridal_wreath": {
+    "id": "bridal_wreath",
+    "name": "Bridal Wreath",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "dragon_scale_helmet": {
+    "id": "dragon_scale_helmet",
+    "name": "Dragon Scale Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "leather_harness": {
+    "id": "leather_harness",
+    "name": "Leather Harness",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "leather_boots": {
+    "id": "leather_boots",
+    "name": "Leather Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "dwarven_ring": {
+    "id": "dwarven_ring",
+    "name": "Dwarven Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "wereboar_loincloth": {
+    "id": "wereboar_loincloth",
+    "name": "Wereboar Loincloth",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "red_tunic": {
+    "id": "red_tunic",
+    "name": "Red Tunic",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "fish_tail__equipped_": {
+    "id": "fish_tail__equipped_",
+    "name": "Fish Tail (Equipped)",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "biscuit_barrier": {
+    "id": "biscuit_barrier",
+    "name": "Biscuit Barrier",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 47,
+    "attack": 0
+  },
+  "shroud_of_despair": {
+    "id": "shroud_of_despair",
+    "name": "Shroud of Despair",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "leaf_legs": {
+    "id": "leaf_legs",
+    "name": "Leaf Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "frostflower_boots": {
+    "id": "frostflower_boots",
+    "name": "Frostflower Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "albino_plate": {
+    "id": "albino_plate",
+    "name": "Albino Plate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "shoulder_plate": {
+    "id": "shoulder_plate",
+    "name": "Shoulder Plate",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 34,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "arcanomancer_sigil": {
+    "id": "arcanomancer_sigil",
+    "name": "Arcanomancer Sigil",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "mutated_skin_armor": {
+    "id": "mutated_skin_armor",
+    "name": "Mutated Skin Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 17,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 3
+    }
+  },
+  "pair_of_earmuffs": {
+    "id": "pair_of_earmuffs",
+    "name": "Pair of Earmuffs",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "alicorn_headguard": {
+    "id": "alicorn_headguard",
+    "name": "Alicorn Headguard",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 3
+    }
+  },
+  "robe_of_the_underworld": {
+    "id": "robe_of_the_underworld",
+    "name": "Robe of the Underworld",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0
+  },
+  "eldritch_folio": {
+    "id": "eldritch_folio",
+    "name": "Eldritch Folio",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 34,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "shamanic_mask": {
+    "id": "shamanic_mask",
+    "name": "Shamanic Mask",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 4,
+    "defense": 0,
+    "attack": 0
+  },
+  "leaf_crown": {
+    "id": "leaf_crown",
+    "name": "Leaf Crown",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "steel_helmet": {
+    "id": "steel_helmet",
+    "name": "Steel Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "patched_boots": {
+    "id": "patched_boots",
+    "name": "Patched Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "wood_cape": {
+    "id": "wood_cape",
+    "name": "Wood Cape",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 1
+    }
+  },
+  "alchemist_s_notepad": {
+    "id": "alchemist_s_notepad",
+    "name": "Alchemist's Notepad",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 32,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "stoic_iks_casque": {
+    "id": "stoic_iks_casque",
+    "name": "Stoic Iks Casque",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "enchanted_werewolf_helmet__magic_": {
+    "id": "enchanted_werewolf_helmet__magic_",
+    "name": "Enchanted Werewolf Helmet (Magic)",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "sanguine_trousers": {
+    "id": "sanguine_trousers",
+    "name": "Sanguine Trousers",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "ornate_chestplate": {
+    "id": "ornate_chestplate",
+    "name": "Ornate Chestplate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0
+  },
+  "stoic_iks_culet": {
+    "id": "stoic_iks_culet",
+    "name": "Stoic Iks Culet",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 2,
+      "axe": 2,
+      "club": 2
+    }
+  },
+  "witch_hat": {
+    "id": "witch_hat",
+    "name": "Witch Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "dark_wizard_s_crown": {
+    "id": "dark_wizard_s_crown",
+    "name": "Dark Wizard's Crown",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "zaoan_robe": {
+    "id": "zaoan_robe",
+    "name": "Zaoan Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "ectoplasmic_shield": {
+    "id": "ectoplasmic_shield",
+    "name": "Ectoplasmic Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 49,
+    "attack": 0,
+    "bonusSkill": {
+      "axe": 3,
+      "club": 3
+    }
+  },
+  "dream_shroud": {
+    "id": "dream_shroud",
+    "name": "Dream Shroud",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "eldritch_cowl": {
+    "id": "eldritch_cowl",
+    "name": "Eldritch Cowl",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "golden_blessed_shield": {
+    "id": "golden_blessed_shield",
+    "name": "Golden Blessed Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "magma_legs": {
+    "id": "magma_legs",
+    "name": "Magma Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "traditional_stein": {
+    "id": "traditional_stein",
+    "name": "Traditional Stein",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "sensing_crown": {
+    "id": "sensing_crown",
+    "name": "Sensing Crown",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "rusty_winged_helmet": {
+    "id": "rusty_winged_helmet",
+    "name": "Rusty Winged Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "merudri_scale_mail": {
+    "id": "merudri_scale_mail",
+    "name": "Merudri Scale Mail",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "falcon_escutcheon": {
+    "id": "falcon_escutcheon",
+    "name": "Falcon Escutcheon",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 52,
+    "attack": 0
+  },
+  "alicorn_ring": {
+    "id": "alicorn_ring",
+    "name": "Alicorn Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "pair_of_dreamwalkers": {
+    "id": "pair_of_dreamwalkers",
+    "name": "Pair of Dreamwalkers",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "depth_scutum": {
+    "id": "depth_scutum",
+    "name": "Depth Scutum",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 33,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "carapace_shield": {
+    "id": "carapace_shield",
+    "name": "Carapace Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 47,
+    "attack": 0
+  },
+  "focus_cape": {
+    "id": "focus_cape",
+    "name": "Focus Cape",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "soulsoles": {
+    "id": "soulsoles",
+    "name": "Soulsoles",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "crocodile_boots": {
+    "id": "crocodile_boots",
+    "name": "Crocodile Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "old_cape": {
+    "id": "old_cape",
+    "name": "Old Cape",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "amazon_shield": {
+    "id": "amazon_shield",
+    "name": "Amazon Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 42,
+    "attack": 0
+  },
+  "norcferatu_bloodhide": {
+    "id": "norcferatu_bloodhide",
+    "name": "Norcferatu Bloodhide",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 6
+    }
+  },
+  "prismatic_shield": {
+    "id": "prismatic_shield",
+    "name": "Prismatic Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 49,
+    "attack": 0
+  },
+  "treader_of_torment": {
+    "id": "treader_of_torment",
+    "name": "Treader of Torment",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 4,
+    "defense": 0,
+    "attack": 0
+  },
+  "eldritch_cuirass": {
+    "id": "eldritch_cuirass",
+    "name": "Eldritch Cuirass",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0
+  },
+  "ring_of_orange_plasma": {
+    "id": "ring_of_orange_plasma",
+    "name": "Ring of Orange Plasma",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "battle_shield": {
+    "id": "battle_shield",
+    "name": "Battle Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 30,
+    "attack": 0
+  },
+  "heat_core": {
+    "id": "heat_core",
+    "name": "Heat Core",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0
+  },
+  "creamy_grimoire": {
+    "id": "creamy_grimoire",
+    "name": "Creamy Grimoire",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 31,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "tusk_shield": {
+    "id": "tusk_shield",
+    "name": "Tusk Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 36,
+    "attack": 0
+  },
+  "mastermind_shield": {
+    "id": "mastermind_shield",
+    "name": "Mastermind Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 49,
+    "attack": 0
+  },
+  "firesoul_tabard": {
+    "id": "firesoul_tabard",
+    "name": "Firesoul Tabard",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 4
+    }
+  },
+  "stag_boots": {
+    "id": "stag_boots",
+    "name": "Stag Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "chain_armor": {
+    "id": "chain_armor",
+    "name": "Chain Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "oriental_shoes": {
+    "id": "oriental_shoes",
+    "name": "Oriental Shoes",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "stag_spellbook": {
+    "id": "stag_spellbook",
+    "name": "Stag Spellbook",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 34,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 5
+    }
+  },
+  "boots_of_haste": {
+    "id": "boots_of_haste",
+    "name": "Boots of Haste",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "elven_legs": {
+    "id": "elven_legs",
+    "name": "Elven Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 4,
+    "defense": 0,
+    "attack": 0
+  },
+  "voltage_armor": {
+    "id": "voltage_armor",
+    "name": "Voltage Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 13,
+    "defense": 0,
+    "attack": 0
+  },
+  "prismatic_legs": {
+    "id": "prismatic_legs",
+    "name": "Prismatic Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "love_elixir__replica_": {
+    "id": "love_elixir__replica_",
+    "name": "Love Elixir (Replica)",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "mutant_hide_trousers": {
+    "id": "mutant_hide_trousers",
+    "name": "Mutant Hide Trousers",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "shield_of_the_white_knight": {
+    "id": "shield_of_the_white_knight",
+    "name": "Shield of the White Knight",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 11,
+    "attack": 0
+  },
+  "laurel_wreath": {
+    "id": "laurel_wreath",
+    "name": "Laurel Wreath",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "eldritch_hood": {
+    "id": "eldritch_hood",
+    "name": "Eldritch Hood",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "ethereal_ring": {
+    "id": "ethereal_ring",
+    "name": "Ethereal Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "brass_shield": {
+    "id": "brass_shield",
+    "name": "Brass Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 21,
+    "attack": 0
+  },
+  "moonsilver_spirit_mask": {
+    "id": "moonsilver_spirit_mask",
+    "name": "Moonsilver Spirit Mask",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "stitched_mutant_hide_legs": {
+    "id": "stitched_mutant_hide_legs",
+    "name": "Stitched Mutant Hide Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 2,
+      "axe": 2,
+      "club": 2
+    }
+  },
+  "stoic_iks_boots": {
+    "id": "stoic_iks_boots",
+    "name": "Stoic Iks Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 1
+    }
+  },
+  "rattling_gourd": {
+    "id": "rattling_gourd",
+    "name": "Rattling Gourd",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "royal_helmet": {
+    "id": "royal_helmet",
+    "name": "Royal Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "brain_in_a_jar": {
+    "id": "brain_in_a_jar",
+    "name": "Brain in a Jar",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 31,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "blessed_shield": {
+    "id": "blessed_shield",
+    "name": "Blessed Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 52,
+    "attack": 0
+  },
+  "norcferatu_goretrampers": {
+    "id": "norcferatu_goretrampers",
+    "name": "Norcferatu Goretrampers",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "dragon_robe": {
+    "id": "dragon_robe",
+    "name": "Dragon Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0
+  },
+  "iron_helmet": {
+    "id": "iron_helmet",
+    "name": "Iron Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "life_ring": {
+    "id": "life_ring",
+    "name": "Life Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "feverbloom_boots": {
+    "id": "feverbloom_boots",
+    "name": "Feverbloom Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 1
+    }
+  },
+  "elite_draken_mail": {
+    "id": "elite_draken_mail",
+    "name": "Elite Draken Mail",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0
+  },
+  "amazon_armor": {
+    "id": "amazon_armor",
+    "name": "Amazon Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 13,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 3
+    }
+  },
+  "butterfly_ring": {
+    "id": "butterfly_ring",
+    "name": "Butterfly Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "girl_s_dress": {
+    "id": "girl_s_dress",
+    "name": "Girl's Dress",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "soulgarb": {
+    "id": "soulgarb",
+    "name": "Soulgarb",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "energy_robe": {
+    "id": "energy_robe",
+    "name": "Energy Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "santa_hat": {
+    "id": "santa_hat",
+    "name": "Santa Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "mammoth_fur_cape": {
+    "id": "mammoth_fur_cape",
+    "name": "Mammoth Fur Cape",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0
+  },
+  "bonelord_shield": {
+    "id": "bonelord_shield",
+    "name": "Bonelord Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 37,
+    "attack": 0
+  },
+  "boots_of_waterwalking": {
+    "id": "boots_of_waterwalking",
+    "name": "Boots of Waterwalking",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "strange_helmet": {
+    "id": "strange_helmet",
+    "name": "Strange Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "exotic_legs": {
+    "id": "exotic_legs",
+    "name": "Exotic Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "velvet_mantle": {
+    "id": "velvet_mantle",
+    "name": "Velvet Mantle",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0
+  },
+  "lightning_boots": {
+    "id": "lightning_boots",
+    "name": "Lightning Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "ranger_legs": {
+    "id": "ranger_legs",
+    "name": "Ranger Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 4,
+    "defense": 0,
+    "attack": 0
+  },
+  "house_silversun_s_signet_ring": {
+    "id": "house_silversun_s_signet_ring",
+    "name": "House Silversun's Signet Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "suspicious_signet_ring": {
+    "id": "suspicious_signet_ring",
+    "name": "Suspicious Signet Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "porcelain_mask": {
+    "id": "porcelain_mask",
+    "name": "Porcelain Mask",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "incandescent_crown": {
+    "id": "incandescent_crown",
+    "name": "Incandescent Crown",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "gill_coat": {
+    "id": "gill_coat",
+    "name": "Gill Coat",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "crest_of_the_deep_seas": {
+    "id": "crest_of_the_deep_seas",
+    "name": "Crest of the Deep Seas",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "heavy_metal_t_shirt": {
+    "id": "heavy_metal_t_shirt",
+    "name": "Heavy Metal T-Shirt",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "furious_frock": {
+    "id": "furious_frock",
+    "name": "Furious Frock",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "hellstalker_visor": {
+    "id": "hellstalker_visor",
+    "name": "Hellstalker Visor",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "crusader_helmet": {
+    "id": "crusader_helmet",
+    "name": "Crusader Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "magma_boots": {
+    "id": "magma_boots",
+    "name": "Magma Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "broken_wooden_shield": {
+    "id": "broken_wooden_shield",
+    "name": "Broken Wooden Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 15,
+    "attack": 0
+  },
+  "magician_hat": {
+    "id": "magician_hat",
+    "name": "Magician Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "sanguine_legs": {
+    "id": "sanguine_legs",
+    "name": "Sanguine Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 4,
+      "axe": 4,
+      "club": 4
+    }
+  },
+  "elite_draken_helmet": {
+    "id": "elite_draken_helmet",
+    "name": "Elite Draken Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 1
+    }
+  },
+  "dauntless_dragon_scale_armor": {
+    "id": "dauntless_dragon_scale_armor",
+    "name": "Dauntless Dragon Scale Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 3,
+      "axe": 3,
+      "club": 3
+    }
+  },
+  "coat": {
+    "id": "coat",
+    "name": "Coat",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "molten_plate": {
+    "id": "molten_plate",
+    "name": "Molten Plate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 13,
+    "defense": 0,
+    "attack": 0
+  },
+  "mighty_helm_of_green_sparks": {
+    "id": "mighty_helm_of_green_sparks",
+    "name": "Mighty Helm of Green Sparks",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "filthy_bunnyslippers": {
+    "id": "filthy_bunnyslippers",
+    "name": "Filthy Bunnyslippers",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "stag_helmet": {
+    "id": "stag_helmet",
+    "name": "Stag Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "warrior_s_shield": {
+    "id": "warrior_s_shield",
+    "name": "Warrior's Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 43,
+    "attack": 0
+  },
+  "noble_armor": {
+    "id": "noble_armor",
+    "name": "Noble Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "lion_ring": {
+    "id": "lion_ring",
+    "name": "Lion Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "dragon_shield": {
+    "id": "dragon_shield",
+    "name": "Dragon Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 41,
+    "attack": 0
+  },
+  "hibiscus_dress": {
+    "id": "hibiscus_dress",
+    "name": "Hibiscus Dress",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "wedding_ring": {
+    "id": "wedding_ring",
+    "name": "Wedding Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "ornate_legs": {
+    "id": "ornate_legs",
+    "name": "Ornate Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "bunnyslippers": {
+    "id": "bunnyslippers",
+    "name": "Bunnyslippers",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "arboreal_ring": {
+    "id": "arboreal_ring",
+    "name": "Arboreal Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "prismatic_helmet": {
+    "id": "prismatic_helmet",
+    "name": "Prismatic Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "arboreal_tome": {
+    "id": "arboreal_tome",
+    "name": "Arboreal Tome",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 36,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 5
+    }
+  },
+  "ring_of_ending": {
+    "id": "ring_of_ending",
+    "name": "Ring of Ending",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "arcane_dragon_robe": {
+    "id": "arcane_dragon_robe",
+    "name": "Arcane Dragon Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "zaoan_helmet": {
+    "id": "zaoan_helmet",
+    "name": "Zaoan Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "yalahari_mask": {
+    "id": "yalahari_mask",
+    "name": "Yalahari Mask",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "traditional_leather_shoes": {
+    "id": "traditional_leather_shoes",
+    "name": "Traditional Leather Shoes",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "icy_culottes": {
+    "id": "icy_culottes",
+    "name": "Icy Culottes",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "falcon_greaves": {
+    "id": "falcon_greaves",
+    "name": "Falcon Greaves",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 3,
+      "axe": 3,
+      "club": 3,
+      "distance": 3
+    }
+  },
+  "enchanted_werewolf_helmet__distance_": {
+    "id": "enchanted_werewolf_helmet__distance_",
+    "name": "Enchanted Werewolf Helmet (Distance)",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 1
+    }
+  },
+  "cobra_boots": {
+    "id": "cobra_boots",
+    "name": "Cobra Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "pirate_hat": {
+    "id": "pirate_hat",
+    "name": "Pirate Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "firemind_raiment": {
+    "id": "firemind_raiment",
+    "name": "Firemind Raiment",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "charged_arboreal_ring": {
+    "id": "charged_arboreal_ring",
+    "name": "Charged Arboreal Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "stoic_iks_headpiece": {
+    "id": "stoic_iks_headpiece",
+    "name": "Stoic Iks Headpiece",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "glacier_robe": {
+    "id": "glacier_robe",
+    "name": "Glacier Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "magma_coat": {
+    "id": "magma_coat",
+    "name": "Magma Coat",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "thunderheart_cuirass": {
+    "id": "thunderheart_cuirass",
+    "name": "Thunderheart Cuirass",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 4
+    }
+  },
+  "feather_headdress": {
+    "id": "feather_headdress",
+    "name": "Feather Headdress",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "plate_legs": {
+    "id": "plate_legs",
+    "name": "Plate Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "charged_alicorn_ring": {
+    "id": "charged_alicorn_ring",
+    "name": "Charged Alicorn Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1,
+      "distance": 3
+    }
+  },
+  "time_ring": {
+    "id": "time_ring",
+    "name": "Time Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "goo_shell": {
+    "id": "goo_shell",
+    "name": "Goo Shell",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0
+  },
+  "jester_hat": {
+    "id": "jester_hat",
+    "name": "Jester Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "runic_ice_shield": {
+    "id": "runic_ice_shield",
+    "name": "Runic Ice Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 41,
+    "attack": 0
+  },
+  "spectral_dress": {
+    "id": "spectral_dress",
+    "name": "Spectral Dress",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "spellbook": {
+    "id": "spellbook",
+    "name": "Spellbook",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 23,
+    "attack": 0
+  },
+  "spellbook_of_vigilance": {
+    "id": "spellbook_of_vigilance",
+    "name": "Spellbook of Vigilance",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 32,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "stag_shield": {
+    "id": "stag_shield",
+    "name": "Stag Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 52,
+    "attack": 0
+  },
+  "mining_helmet": {
+    "id": "mining_helmet",
+    "name": "Mining Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "norcferatu_thornwraps": {
+    "id": "norcferatu_thornwraps",
+    "name": "Norcferatu Thornwraps",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "norcferatu_skullguard": {
+    "id": "norcferatu_skullguard",
+    "name": "Norcferatu Skullguard",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "mutated_skin_legs": {
+    "id": "mutated_skin_legs",
+    "name": "Mutated Skin Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "gnomish_footwraps": {
+    "id": "gnomish_footwraps",
+    "name": "Gnomish Footwraps",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "green_demon_legs": {
+    "id": "green_demon_legs",
+    "name": "Green Demon Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "dark_lord_s_cape": {
+    "id": "dark_lord_s_cape",
+    "name": "Dark Lord's Cape",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "terra_boots": {
+    "id": "terra_boots",
+    "name": "Terra Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "jade_legs": {
+    "id": "jade_legs",
+    "name": "Jade Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "stoic_iks_sandals": {
+    "id": "stoic_iks_sandals",
+    "name": "Stoic Iks Sandals",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "crude_umbral_spellbook": {
+    "id": "crude_umbral_spellbook",
+    "name": "Crude Umbral Spellbook",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 23,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "jacket": {
+    "id": "jacket",
+    "name": "Jacket",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "meat_shield": {
+    "id": "meat_shield",
+    "name": "Meat Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 13,
+    "attack": 0
+  },
+  "norcferatu_bonehood": {
+    "id": "norcferatu_bonehood",
+    "name": "Norcferatu Bonehood",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "thundermind_raiment": {
+    "id": "thundermind_raiment",
+    "name": "Thundermind Raiment",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "legs_of_enlightenment": {
+    "id": "legs_of_enlightenment",
+    "name": "Legs of Enlightenment",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 4,
+    "defense": 0,
+    "attack": 0
+  },
+  "post_officer_s_hat": {
+    "id": "post_officer_s_hat",
+    "name": "Post Officer's Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "ring_of_souls__depleted_": {
+    "id": "ring_of_souls__depleted_",
+    "name": "Ring of Souls (Depleted)",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "stealth_ring": {
+    "id": "stealth_ring",
+    "name": "Stealth Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "ancient_shield": {
+    "id": "ancient_shield",
+    "name": "Ancient Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 36,
+    "attack": 0
+  },
+  "dwarven_armor": {
+    "id": "dwarven_armor",
+    "name": "Dwarven Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0
+  },
+  "broken_iks_cuirass": {
+    "id": "broken_iks_cuirass",
+    "name": "Broken Iks Cuirass",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "spellbook_of_dark_mysteries": {
+    "id": "spellbook_of_dark_mysteries",
+    "name": "Spellbook of Dark Mysteries",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 26,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "lion_spellbook": {
+    "id": "lion_spellbook",
+    "name": "Lion Spellbook",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 32,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "fireheart_platemail": {
+    "id": "fireheart_platemail",
+    "name": "Fireheart Platemail",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "club": 4
+    }
+  },
+  "brass_button": {
+    "id": "brass_button",
+    "name": "Brass Button",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "dark_whispers": {
+    "id": "dark_whispers",
+    "name": "Dark Whispers",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "robe_of_the_ice_queen": {
+    "id": "robe_of_the_ice_queen",
+    "name": "Robe of the Ice Queen",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0
+  },
+  "draken_boots": {
+    "id": "draken_boots",
+    "name": "Draken Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "falcon_plate": {
+    "id": "falcon_plate",
+    "name": "Falcon Plate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0
+  },
+  "werewolf_helmet": {
+    "id": "werewolf_helmet",
+    "name": "Werewolf Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "falcon_coif": {
+    "id": "falcon_coif",
+    "name": "Falcon Coif",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "ring_of_healing": {
+    "id": "ring_of_healing",
+    "name": "Ring of Healing",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "shield_of_corruption": {
+    "id": "shield_of_corruption",
+    "name": "Shield of Corruption",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 47,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 3
+    }
+  },
+  "chaos_critical_dice__replica_": {
+    "id": "chaos_critical_dice__replica_",
+    "name": "Chaos Critical Dice (Replica)",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "dreadfire_headpiece": {
+    "id": "dreadfire_headpiece",
+    "name": "Dreadfire Headpiece",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "frostsoul_tabard": {
+    "id": "frostsoul_tabard",
+    "name": "Frostsoul Tabard",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 4
+    }
+  },
+  "yetislippers": {
+    "id": "yetislippers",
+    "name": "Yetislippers",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "ornate_shield": {
+    "id": "ornate_shield",
+    "name": "Ornate Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 47,
+    "attack": 0
+  },
+  "pirate_shirt": {
+    "id": "pirate_shirt",
+    "name": "Pirate Shirt",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "crown_armor": {
+    "id": "crown_armor",
+    "name": "Crown Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 13,
+    "defense": 0,
+    "attack": 0
+  },
+  "broken_visor": {
+    "id": "broken_visor",
+    "name": "Broken Visor",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "falcon_circlet": {
+    "id": "falcon_circlet",
+    "name": "Falcon Circlet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "moonsilver_battle_visor": {
+    "id": "moonsilver_battle_visor",
+    "name": "Moonsilver Battle Visor",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 14,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1,
+      "sword": 4,
+      "axe": 4,
+      "club": 4
+    }
+  },
+  "death_ring": {
+    "id": "death_ring",
+    "name": "Death Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "axe_ring": {
+    "id": "axe_ring",
+    "name": "Axe Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "axe": 4
+    }
+  },
+  "silver_mask": {
+    "id": "silver_mask",
+    "name": "Silver Mask",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "strange_good_night_songs": {
+    "id": "strange_good_night_songs",
+    "name": "Strange Good Night Songs",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "yalahari_footwraps": {
+    "id": "yalahari_footwraps",
+    "name": "Yalahari Footwraps",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "leather_armor": {
+    "id": "leather_armor",
+    "name": "Leather Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 4,
+    "defense": 0,
+    "attack": 0
+  },
+  "norcferatu_fangstompers": {
+    "id": "norcferatu_fangstompers",
+    "name": "Norcferatu Fangstompers",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "terra_hood": {
+    "id": "terra_hood",
+    "name": "Terra Hood",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "spellbook_of_the_novice": {
+    "id": "spellbook_of_the_novice",
+    "name": "Spellbook of the Novice",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 13,
+    "attack": 0
+  },
+  "lightning_headband": {
+    "id": "lightning_headband",
+    "name": "Lightning Headband",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "badger_boots": {
+    "id": "badger_boots",
+    "name": "Badger Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "ring_of_souls": {
+    "id": "ring_of_souls",
+    "name": "Ring of Souls",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "arcanomancer_regalia": {
+    "id": "arcanomancer_regalia",
+    "name": "Arcanomancer Regalia",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "broken_iks_sandals": {
+    "id": "broken_iks_sandals",
+    "name": "Broken Iks Sandals",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "family_signet_ring": {
+    "id": "family_signet_ring",
+    "name": "Family Signet Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "frostheart_platemail": {
+    "id": "frostheart_platemail",
+    "name": "Frostheart Platemail",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "club": 4
+    }
+  },
+  "crown": {
+    "id": "crown",
+    "name": "Crown",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "viking_helmet": {
+    "id": "viking_helmet",
+    "name": "Viking Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 4,
+    "defense": 0,
+    "attack": 0
+  },
+  "demonfang_mask": {
+    "id": "demonfang_mask",
+    "name": "Demonfang Mask",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "energy_ring": {
+    "id": "energy_ring",
+    "name": "Energy Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "void_boots": {
+    "id": "void_boots",
+    "name": "Void Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "bandana": {
+    "id": "bandana",
+    "name": "Bandana",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "copper_shield": {
+    "id": "copper_shield",
+    "name": "Copper Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 25,
+    "attack": 0
+  },
+  "tortoise_shield": {
+    "id": "tortoise_shield",
+    "name": "Tortoise Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 34,
+    "attack": 0
+  },
+  "rubber_cap": {
+    "id": "rubber_cap",
+    "name": "Rubber Cap",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "coconut_shoes": {
+    "id": "coconut_shoes",
+    "name": "Coconut Shoes",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "galea_mortis": {
+    "id": "galea_mortis",
+    "name": "Galea Mortis",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "enchanted_werewolf_helmet__club_": {
+    "id": "enchanted_werewolf_helmet__club_",
+    "name": "Enchanted Werewolf Helmet (Club)",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "club": 1
+    }
+  },
+  "merudri_battle_mail": {
+    "id": "merudri_battle_mail",
+    "name": "Merudri Battle Mail",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "chain_legs": {
+    "id": "chain_legs",
+    "name": "Chain Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "moonsilver_nimbus_hat": {
+    "id": "moonsilver_nimbus_hat",
+    "name": "Moonsilver Nimbus Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "warrior_helmet": {
+    "id": "warrior_helmet",
+    "name": "Warrior Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "monk_robe": {
+    "id": "monk_robe",
+    "name": "Monk Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "vampire_silk_slippers": {
+    "id": "vampire_silk_slippers",
+    "name": "Vampire Silk Slippers",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "glacier_mask": {
+    "id": "glacier_mask",
+    "name": "Glacier Mask",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "prismatic_armor": {
+    "id": "prismatic_armor",
+    "name": "Prismatic Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0
+  },
+  "brass_legs": {
+    "id": "brass_legs",
+    "name": "Brass Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "winged_helmet": {
+    "id": "winged_helmet",
+    "name": "Winged Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0
+  },
+  "ranger_s_cloak": {
+    "id": "ranger_s_cloak",
+    "name": "Ranger's Cloak",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "pair_of_nightmare_boots": {
+    "id": "pair_of_nightmare_boots",
+    "name": "Pair of Nightmare Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "shield_of_endless_search": {
+    "id": "shield_of_endless_search",
+    "name": "Shield of Endless Search",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "dwarven_legs": {
+    "id": "dwarven_legs",
+    "name": "Dwarven Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "mathmaster_shield": {
+    "id": "mathmaster_shield",
+    "name": "Mathmaster Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "ring_of_temptation": {
+    "id": "ring_of_temptation",
+    "name": "Ring of Temptation",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "lightning_robe": {
+    "id": "lightning_robe",
+    "name": "Lightning Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "royal_scale_robe": {
+    "id": "royal_scale_robe",
+    "name": "Royal Scale Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "witchhunter_s_coat": {
+    "id": "witchhunter_s_coat",
+    "name": "Witchhunter's Coat",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "cape": {
+    "id": "cape",
+    "name": "Cape",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "horn__ring_": {
+    "id": "horn__ring_",
+    "name": "Horn (Ring)",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "mutant_bone_kilt": {
+    "id": "mutant_bone_kilt",
+    "name": "Mutant Bone Kilt",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "thunderheart_hauberk": {
+    "id": "thunderheart_hauberk",
+    "name": "Thunderheart Hauberk",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "axe": 4
+    }
+  },
+  "stoic_iks_chestplate": {
+    "id": "stoic_iks_chestplate",
+    "name": "Stoic Iks Chestplate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0
+  },
+  "norcferatu_bloodstrider": {
+    "id": "norcferatu_bloodstrider",
+    "name": "Norcferatu Bloodstrider",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "earthheart_cuirass": {
+    "id": "earthheart_cuirass",
+    "name": "Earthheart Cuirass",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 4
+    }
+  },
+  "bast_skirt": {
+    "id": "bast_skirt",
+    "name": "Bast Skirt",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "ghost_chestplate": {
+    "id": "ghost_chestplate",
+    "name": "Ghost Chestplate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 17,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "spirit_guide": {
+    "id": "spirit_guide",
+    "name": "Spirit Guide",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 28,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "spooky_hood": {
+    "id": "spooky_hood",
+    "name": "Spooky Hood",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "mino_shield": {
+    "id": "mino_shield",
+    "name": "Mino Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 41,
+    "attack": 0
+  },
+  "sword_ring": {
+    "id": "sword_ring",
+    "name": "Sword Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 4
+    }
+  },
+  "royal_draken_mail": {
+    "id": "royal_draken_mail",
+    "name": "Royal Draken Mail",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0
+  },
+  "gnome_armor": {
+    "id": "gnome_armor",
+    "name": "Gnome Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 17,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 3
+    }
+  },
+  "lion_spangenhelm": {
+    "id": "lion_spangenhelm",
+    "name": "Lion Spangenhelm",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "magic_plate_armor": {
+    "id": "magic_plate_armor",
+    "name": "Magic Plate Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 17,
+    "defense": 0,
+    "attack": 0
+  },
+  "stag_robe": {
+    "id": "stag_robe",
+    "name": "Stag Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0
+  },
+  "pirate_boots": {
+    "id": "pirate_boots",
+    "name": "Pirate Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "guardian_boots": {
+    "id": "guardian_boots",
+    "name": "Guardian Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "prismatic_boots": {
+    "id": "prismatic_boots",
+    "name": "Prismatic Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "plate_armor": {
+    "id": "plate_armor",
+    "name": "Plate Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0
+  },
+  "power_ring": {
+    "id": "power_ring",
+    "name": "Power Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "depth_calcei": {
+    "id": "depth_calcei",
+    "name": "Depth Calcei",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "firewalker_boots": {
+    "id": "firewalker_boots",
+    "name": "Firewalker Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "engraved_wedding_ring": {
+    "id": "engraved_wedding_ring",
+    "name": "Engraved Wedding Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "snake_god_s_wristguard": {
+    "id": "snake_god_s_wristguard",
+    "name": "Snake God's Wristguard",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 23,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "great_shield": {
+    "id": "great_shield",
+    "name": "Great Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 50,
+    "attack": 0
+  },
+  "steel_shield": {
+    "id": "steel_shield",
+    "name": "Steel Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 28,
+    "attack": 0
+  },
+  "falcon_shield": {
+    "id": "falcon_shield",
+    "name": "Falcon Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 51,
+    "attack": 0
+  },
+  "alloy_legs": {
+    "id": "alloy_legs",
+    "name": "Alloy Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "midnight_sarong": {
+    "id": "midnight_sarong",
+    "name": "Midnight Sarong",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "zaoan_monk_robe": {
+    "id": "zaoan_monk_robe",
+    "name": "Zaoan Monk Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "studded_armor": {
+    "id": "studded_armor",
+    "name": "Studded Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "charred_mask": {
+    "id": "charred_mask",
+    "name": "Charred Mask",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "depth_galea": {
+    "id": "depth_galea",
+    "name": "Depth Galea",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "coned_hat_of_enlightenment": {
+    "id": "coned_hat_of_enlightenment",
+    "name": "Coned Hat of Enlightenment",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 4,
+    "defense": 0,
+    "attack": 0
+  },
+  "grasshopper_legs": {
+    "id": "grasshopper_legs",
+    "name": "Grasshopper Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "ring_of_the_sky": {
+    "id": "ring_of_the_sky",
+    "name": "Ring of the Sky",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "greenwood_coat": {
+    "id": "greenwood_coat",
+    "name": "Greenwood Coat",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0
+  },
+  "symbol_of_sun_and_sea": {
+    "id": "symbol_of_sun_and_sea",
+    "name": "Symbol of Sun and Sea",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "guardian_shield": {
+    "id": "guardian_shield",
+    "name": "Guardian Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 39,
+    "attack": 0
+  },
+  "iks_footwraps": {
+    "id": "iks_footwraps",
+    "name": "Iks Footwraps",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "chocolatey_dragon_scale_legs": {
+    "id": "chocolatey_dragon_scale_legs",
+    "name": "Chocolatey Dragon Scale Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "depth_ocrea": {
+    "id": "depth_ocrea",
+    "name": "Depth Ocrea",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "helmet_of_ultimate_terror": {
+    "id": "helmet_of_ultimate_terror",
+    "name": "Helmet of Ultimate Terror",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "spellscroll_of_prophecies": {
+    "id": "spellscroll_of_prophecies",
+    "name": "Spellscroll of Prophecies",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 20,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "blue_legs": {
+    "id": "blue_legs",
+    "name": "Blue Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "yalahari_leg_piece": {
+    "id": "yalahari_leg_piece",
+    "name": "Yalahari Leg Piece",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "ring_of_wishes": {
+    "id": "ring_of_wishes",
+    "name": "Ring of Wishes",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "magma_robe": {
+    "id": "magma_robe",
+    "name": "Magma Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "norcferatu_bonecloak": {
+    "id": "norcferatu_bonecloak",
+    "name": "Norcferatu Bonecloak",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 6
+    }
+  },
+  "jade_hat": {
+    "id": "jade_hat",
+    "name": "Jade Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 4,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "morshabaal_s_mask": {
+    "id": "morshabaal_s_mask",
+    "name": "Morshabaal's Mask",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "claw_of__the_noxious_spawn_": {
+    "id": "claw_of__the_noxious_spawn_",
+    "name": "Claw of 'The Noxious Spawn'",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "mystic_turban": {
+    "id": "mystic_turban",
+    "name": "Mystic Turban",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "earthheart_hauberk": {
+    "id": "earthheart_hauberk",
+    "name": "Earthheart Hauberk",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "axe": 4
+    }
+  },
+  "viking_shield": {
+    "id": "viking_shield",
+    "name": "Viking Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 29,
+    "attack": 0
+  },
+  "shield_of_care": {
+    "id": "shield_of_care",
+    "name": "Shield of Care",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 11,
+    "attack": 0
+  },
+  "leaf_robe": {
+    "id": "leaf_robe",
+    "name": "Leaf Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "stag_scrolls": {
+    "id": "stag_scrolls",
+    "name": "Stag Scrolls",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 34,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 5
+    }
+  },
+  "ring_of_secret_thoughts__charged_": {
+    "id": "ring_of_secret_thoughts__charged_",
+    "name": "Ring of Secret Thoughts (Charged)",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "spellbook_of_warding": {
+    "id": "spellbook_of_warding",
+    "name": "Spellbook of Warding",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 36,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "helmet_of_the_lost": {
+    "id": "helmet_of_the_lost",
+    "name": "Helmet of the Lost",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "mathmaster_shield__replica_": {
+    "id": "mathmaster_shield__replica_",
+    "name": "Mathmaster Shield (Replica)",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "ring_of_blue_plasma": {
+    "id": "ring_of_blue_plasma",
+    "name": "Ring of Blue Plasma",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1,
+      "distance": 3
+    }
+  },
+  "zaoan_legs": {
+    "id": "zaoan_legs",
+    "name": "Zaoan Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "gnome_shield": {
+    "id": "gnome_shield",
+    "name": "Gnome Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 50,
+    "attack": 0
+  },
+  "haunted_mirror_piece": {
+    "id": "haunted_mirror_piece",
+    "name": "Haunted Mirror Piece",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 45,
+    "attack": 0
+  },
+  "demon_legs": {
+    "id": "demon_legs",
+    "name": "Demon Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "boots_of_renewal": {
+    "id": "boots_of_renewal",
+    "name": "Boots of Renewal",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "crown_legs": {
+    "id": "crown_legs",
+    "name": "Crown Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "jungle_survivor_legs": {
+    "id": "jungle_survivor_legs",
+    "name": "Jungle Survivor Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "summer_dress": {
+    "id": "summer_dress",
+    "name": "Summer Dress",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "merudri_nanbando": {
+    "id": "merudri_nanbando",
+    "name": "Merudri Nanbando",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0
+  },
+  "unerring_dragon_scale_armor": {
+    "id": "unerring_dragon_scale_armor",
+    "name": "Unerring Dragon Scale Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 17,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1,
+      "distance": 3
+    }
+  },
+  "rose_shield": {
+    "id": "rose_shield",
+    "name": "Rose Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 36,
+    "attack": 0
+  },
+  "crystal_boots": {
+    "id": "crystal_boots",
+    "name": "Crystal Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "zaoan_shoes": {
+    "id": "zaoan_shoes",
+    "name": "Zaoan Shoes",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "medusa_shield": {
+    "id": "medusa_shield",
+    "name": "Medusa Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 43,
+    "attack": 0
+  },
+  "silver_chimes": {
+    "id": "silver_chimes",
+    "name": "Silver Chimes",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "dark_vision_bandana": {
+    "id": "dark_vision_bandana",
+    "name": "Dark Vision Bandana",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "frostheart_cuirass": {
+    "id": "frostheart_cuirass",
+    "name": "Frostheart Cuirass",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 4
+    }
+  },
+  "blue_spectacles": {
+    "id": "blue_spectacles",
+    "name": "Blue Spectacles",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "iron_crown": {
+    "id": "iron_crown",
+    "name": "Iron Crown",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "traditional_shirt": {
+    "id": "traditional_shirt",
+    "name": "Traditional Shirt",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "odd_hat": {
+    "id": "odd_hat",
+    "name": "Odd Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "paladin_armor": {
+    "id": "paladin_armor",
+    "name": "Paladin Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 2
+    }
+  },
+  "light_bandana": {
+    "id": "light_bandana",
+    "name": "Light Bandana",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "mutant_bone_boots": {
+    "id": "mutant_bone_boots",
+    "name": "Mutant Bone Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "star_ring": {
+    "id": "star_ring",
+    "name": "Star Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "glacier_kilt": {
+    "id": "glacier_kilt",
+    "name": "Glacier Kilt",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "sanguine_boots": {
+    "id": "sanguine_boots",
+    "name": "Sanguine Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "spellweaver_s_robe": {
+    "id": "spellweaver_s_robe",
+    "name": "Spellweaver's Robe",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 11,
+    "defense": 0,
+    "attack": 0
+  },
+  "scarab_shield": {
+    "id": "scarab_shield",
+    "name": "Scarab Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 33,
+    "attack": 0
+  },
+  "ornamented_shield": {
+    "id": "ornamented_shield",
+    "name": "Ornamented Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 29,
+    "attack": 0
+  },
+  "enchanted_blister_ring": {
+    "id": "enchanted_blister_ring",
+    "name": "Enchanted Blister Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "boots_of_homecoming": {
+    "id": "boots_of_homecoming",
+    "name": "Boots of Homecoming",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "sparking_rainbow_shield": {
+    "id": "sparking_rainbow_shield",
+    "name": "Sparking Rainbow Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 49,
+    "attack": 0
+  },
+  "golden_boots": {
+    "id": "golden_boots",
+    "name": "Golden Boots",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 4,
+    "defense": 0,
+    "attack": 0
+  },
+  "mage_hat": {
+    "id": "mage_hat",
+    "name": "Mage Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "depth_lorica": {
+    "id": "depth_lorica",
+    "name": "Depth Lorica",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "distance": 3
+    }
+  },
+  "boots_of_homecoming__used_": {
+    "id": "boots_of_homecoming__used_",
+    "name": "Boots of Homecoming (Used)",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "robe_of_enlightenment": {
+    "id": "robe_of_enlightenment",
+    "name": "Robe of Enlightenment",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "ring_of_green_plasma": {
+    "id": "ring_of_green_plasma",
+    "name": "Ring of Green Plasma",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "naga_tanko": {
+    "id": "naga_tanko",
+    "name": "Naga Tanko",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "knight_legs": {
+    "id": "knight_legs",
+    "name": "Knight Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "frostmind_raiment": {
+    "id": "frostmind_raiment",
+    "name": "Frostmind Raiment",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 15,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "ethereal_coned_hat": {
+    "id": "ethereal_coned_hat",
+    "name": "Ethereal Coned Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 7,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "leopard_armor": {
+    "id": "leopard_armor",
+    "name": "Leopard Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "fiery_rainbow_shield": {
+    "id": "fiery_rainbow_shield",
+    "name": "Fiery Rainbow Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 47,
+    "attack": 0
+  },
+  "gourd": {
+    "id": "gourd",
+    "name": "Gourd",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "fur_cap": {
+    "id": "fur_cap",
+    "name": "Fur Cap",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "guardian_ring": {
+    "id": "guardian_ring",
+    "name": "Guardian Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "spellbook_of_enlightenment": {
+    "id": "spellbook_of_enlightenment",
+    "name": "Spellbook of Enlightenment",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 29,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "stoic_iks_faulds": {
+    "id": "stoic_iks_faulds",
+    "name": "Stoic Iks Faulds",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "simple_dress": {
+    "id": "simple_dress",
+    "name": "Simple Dress",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "calopteryx_cape": {
+    "id": "calopteryx_cape",
+    "name": "Calopteryx Cape",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 1
+    }
+  },
+  "soulbastion": {
+    "id": "soulbastion",
+    "name": "Soulbastion",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 55,
+    "attack": 0
+  },
+  "terran_rainbow_shield": {
+    "id": "terran_rainbow_shield",
+    "name": "Terran Rainbow Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 49,
+    "attack": 0
+  },
+  "legion_helmet": {
+    "id": "legion_helmet",
+    "name": "Legion Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 4,
+    "defense": 0,
+    "attack": 0
+  },
+  "club_ring": {
+    "id": "club_ring",
+    "name": "Club Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "club": 4
+    }
+  },
+  "spike_shield": {
+    "id": "spike_shield",
+    "name": "Spike Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 37,
+    "attack": 0
+  },
+  "helmet_of_the_deep": {
+    "id": "helmet_of_the_deep",
+    "name": "Helmet of the Deep",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 2,
+    "defense": 0,
+    "attack": 0
+  },
+  "griffin_shield": {
+    "id": "griffin_shield",
+    "name": "Griffin Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 38,
+    "attack": 0
+  },
+  "norcferatu_tuskplate": {
+    "id": "norcferatu_tuskplate",
+    "name": "Norcferatu Tuskplate",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 22,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 3,
+      "axe": 3,
+      "club": 3
+    }
+  },
+  "lederhosen": {
+    "id": "lederhosen",
+    "name": "Lederhosen",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "soulmantle": {
+    "id": "soulmantle",
+    "name": "Soulmantle",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 17,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "elven_mail": {
+    "id": "elven_mail",
+    "name": "Elven Mail",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "dragon_scale_legs": {
+    "id": "dragon_scale_legs",
+    "name": "Dragon Scale Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0
+  },
+  "frostheart_hauberk": {
+    "id": "frostheart_hauberk",
+    "name": "Frostheart Hauberk",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 18,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "axe": 4
+    }
+  },
+  "mage_s_cap": {
+    "id": "mage_s_cap",
+    "name": "Mage's Cap",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 3,
+    "defense": 0,
+    "attack": 0
+  },
+  "terra_helmet": {
+    "id": "terra_helmet",
+    "name": "Terra Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 2,
+      "axe": 2,
+      "club": 2
+    }
+  },
+  "refined_stag_shield": {
+    "id": "refined_stag_shield",
+    "name": "Refined Stag Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 54,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 2,
+      "axe": 2,
+      "club": 2
+    }
+  },
+  "jade_conical_hat": {
+    "id": "jade_conical_hat",
+    "name": "Jade Conical Hat",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 5,
+    "defense": 0,
+    "attack": 0
+  },
+  "necromancer_shield": {
+    "id": "necromancer_shield",
+    "name": "Necromancer Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 49,
+    "attack": 0
+  },
+  "spiritthorn_helmet": {
+    "id": "spiritthorn_helmet",
+    "name": "Spiritthorn Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 3,
+      "axe": 3,
+      "club": 3
+    }
+  },
+  "boots_of_enlightenment": {
+    "id": "boots_of_enlightenment",
+    "name": "Boots of Enlightenment",
+    "slot": "BOOTS",
+    "imbuementSlots": 0,
+    "armor": 1,
+    "defense": 0,
+    "attack": 0
+  },
+  "mammoth_fur_shorts": {
+    "id": "mammoth_fur_shorts",
+    "name": "Mammoth Fur Shorts",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "midnight_tunic": {
+    "id": "midnight_tunic",
+    "name": "Midnight Tunic",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "sweetheart_ring": {
+    "id": "sweetheart_ring",
+    "name": "Sweetheart Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "green_demon_armor": {
+    "id": "green_demon_armor",
+    "name": "Green Demon Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 16,
+    "defense": 0,
+    "attack": 0
+  },
+  "arcanomancer_folio": {
+    "id": "arcanomancer_folio",
+    "name": "Arcanomancer Folio",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 36,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 5
+    }
+  },
+  "crown_shield": {
+    "id": "crown_shield",
+    "name": "Crown Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 42,
+    "attack": 0
+  },
+  "golden_armor": {
+    "id": "golden_armor",
+    "name": "Golden Armor",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 14,
+    "defense": 0,
+    "attack": 0
+  },
+  "terra_legs": {
+    "id": "terra_legs",
+    "name": "Terra Legs",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0
+  },
+  "dawnfire_pantaloons": {
+    "id": "dawnfire_pantaloons",
+    "name": "Dawnfire Pantaloons",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 8,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 2
+    }
+  },
+  "ragnir_helmet": {
+    "id": "ragnir_helmet",
+    "name": "Ragnir Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 6,
+    "defense": 0,
+    "attack": 0
+  },
+  "soulshanks": {
+    "id": "soulshanks",
+    "name": "Soulshanks",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "soulstrider": {
+    "id": "soulstrider",
+    "name": "Soulstrider",
+    "slot": "LEGS",
+    "imbuementSlots": 0,
+    "armor": 10,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 3
+    }
+  },
+  "norse_shield": {
+    "id": "norse_shield",
+    "name": "Norse Shield",
+    "slot": "SHIELD",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 37,
+    "attack": 0
+  },
+  "might_ring": {
+    "id": "might_ring",
+    "name": "Might Ring",
+    "slot": "RING",
+    "imbuementSlots": 0,
+    "armor": 0,
+    "defense": 0,
+    "attack": 0
+  },
+  "soulshroud": {
+    "id": "soulshroud",
+    "name": "Soulshroud",
+    "slot": "ARMOR",
+    "imbuementSlots": 0,
+    "armor": 17,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "magic": 4
+    }
+  },
+  "enchanted_werewolf_helmet__sword_": {
+    "id": "enchanted_werewolf_helmet__sword_",
+    "name": "Enchanted Werewolf Helmet (Sword)",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 1
+    }
+  },
+  "golden_helmet": {
+    "id": "golden_helmet",
+    "name": "Golden Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 12,
+    "defense": 0,
+    "attack": 0
+  },
+  "skull_helmet": {
+    "id": "skull_helmet",
+    "name": "Skull Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0
+  },
+  "antler_horn_helmet": {
+    "id": "antler_horn_helmet",
+    "name": "Antler-Horn Helmet",
+    "slot": "HELMET",
+    "imbuementSlots": 0,
+    "armor": 9,
+    "defense": 0,
+    "attack": 0,
+    "bonusSkill": {
+      "sword": 1,
+      "axe": 1,
+      "club": 1
+    }
+  }
+}

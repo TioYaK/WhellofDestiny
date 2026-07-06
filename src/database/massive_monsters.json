@@ -1,0 +1,268 @@
+{
+  "brachiodemon": {
+    "id": "brachiodemon",
+    "name": "Brachiodemon",
+    "maxHp": 11000,
+    "armor": 100,
+    "elementalModifiers": {
+      "PHYSICAL": 0.8,
+      "DEATH": 0.5,
+      "FIRE": 0.9,
+      "ENERGY": 1,
+      "ICE": 1.1,
+      "HOLY": 1,
+      "HEAL": 1,
+      "EARTH": 1
+    },
+    "combatType": "MELEE",
+    "baseDamagePerTurn": 2000,
+    "damageElement": "PHYSICAL"
+  },
+  "infernal_demon": {
+    "id": "infernal_demon",
+    "name": "Infernal Demon",
+    "maxHp": 10500,
+    "armor": 90,
+    "elementalModifiers": {
+      "PHYSICAL": 0.8,
+      "FIRE": 0,
+      "ICE": 1.1,
+      "DEATH": 0.9,
+      "ENERGY": 1,
+      "HOLY": 1,
+      "HEAL": 1,
+      "EARTH": 1
+    },
+    "combatType": "MELEE",
+    "baseDamagePerTurn": 2100,
+    "damageElement": "FIRE"
+  },
+  "magma_crawler": {
+    "id": "magma_crawler",
+    "name": "Magma Crawler",
+    "maxHp": 9000,
+    "armor": 80,
+    "elementalModifiers": {
+      "PHYSICAL": 0.8,
+      "FIRE": 0.2,
+      "ICE": 1.2,
+      "DEATH": 1,
+      "ENERGY": 1,
+      "HOLY": 1,
+      "HEAL": 1,
+      "EARTH": 1
+    },
+    "combatType": "MELEE",
+    "baseDamagePerTurn": 1800,
+    "damageElement": "FIRE"
+  },
+  "cloak_of_terror": {
+    "id": "cloak_of_terror",
+    "name": "Cloak of Terror",
+    "maxHp": 9500,
+    "armor": 70,
+    "elementalModifiers": {
+      "PHYSICAL": 0.5,
+      "FIRE": 1.1,
+      "ICE": 1,
+      "DEATH": 0.1,
+      "ENERGY": 1,
+      "HOLY": 1.2,
+      "HEAL": 1,
+      "EARTH": 1
+    },
+    "combatType": "RANGED",
+    "baseDamagePerTurn": 2500,
+    "damageElement": "DEATH"
+  },
+  "bloodjaw": {
+    "id": "bloodjaw",
+    "name": "Bloodjaw",
+    "maxHp": 15000,
+    "armor": 110,
+    "elementalModifiers": {
+      "PHYSICAL": 0.8,
+      "FIRE": 0.9,
+      "ICE": 0.9,
+      "DEATH": 0.9,
+      "ENERGY": 0.9,
+      "HOLY": 1,
+      "HEAL": 1,
+      "EARTH": 0.9
+    },
+    "combatType": "MELEE",
+    "baseDamagePerTurn": 2800,
+    "damageElement": "PHYSICAL"
+  },
+  "chagall": {
+    "id": "chagall",
+    "name": "Chagall",
+    "maxHp": 14000,
+    "armor": 110,
+    "elementalModifiers": {
+      "PHYSICAL": 0.9,
+      "FIRE": 0.5,
+      "ICE": 1,
+      "DEATH": 1.1,
+      "ENERGY": 1,
+      "HOLY": 0.5,
+      "HEAL": 1,
+      "EARTH": 1
+    },
+    "combatType": "MELEE",
+    "baseDamagePerTurn": 2600,
+    "damageElement": "DEATH"
+  },
+  "biting_book": {
+    "id": "biting_book",
+    "name": "Biting Book",
+    "maxHp": 5500,
+    "armor": 50,
+    "elementalModifiers": {
+      "PHYSICAL": 0.9,
+      "FIRE": 1.15,
+      "ICE": 0.9,
+      "DEATH": 0.8,
+      "ENERGY": 0.9,
+      "HOLY": 1,
+      "HEAL": 1,
+      "EARTH": 1
+    },
+    "combatType": "MELEE",
+    "baseDamagePerTurn": 1100,
+    "damageElement": "PHYSICAL"
+  },
+  "ink_blob": {
+    "id": "ink_blob",
+    "name": "Ink Blob",
+    "maxHp": 4000,
+    "armor": 40,
+    "elementalModifiers": {
+      "PHYSICAL": 0.6,
+      "FIRE": 1.1,
+      "ICE": 1.1,
+      "DEATH": 0.2,
+      "ENERGY": 0.9,
+      "HOLY": 1,
+      "HEAL": 1,
+      "EARTH": 1
+    },
+    "combatType": "RANGED",
+    "baseDamagePerTurn": 1400,
+    "damageElement": "DEATH"
+  },
+  "sphinx": {
+    "id": "sphinx",
+    "name": "Sphinx",
+    "maxHp": 6600,
+    "armor": 75,
+    "elementalModifiers": {
+      "PHYSICAL": 0.9,
+      "FIRE": 0.8,
+      "ICE": 0.8,
+      "DEATH": 1.15,
+      "ENERGY": 0.9,
+      "HOLY": 0.5,
+      "HEAL": 1,
+      "EARTH": 1
+    },
+    "combatType": "MELEE",
+    "baseDamagePerTurn": 1200,
+    "damageElement": "HOLY"
+  },
+  "lamassu": {
+    "id": "lamassu",
+    "name": "Lamassu",
+    "maxHp": 7500,
+    "armor": 80,
+    "elementalModifiers": {
+      "PHYSICAL": 0.8,
+      "FIRE": 0.9,
+      "ICE": 0.9,
+      "DEATH": 1.2,
+      "ENERGY": 0.9,
+      "HOLY": 0.2,
+      "HEAL": 1,
+      "EARTH": 1
+    },
+    "combatType": "MELEE",
+    "baseDamagePerTurn": 1400,
+    "damageElement": "HOLY"
+  },
+  "crypt_warden": {
+    "id": "crypt_warden",
+    "name": "Crypt Warden",
+    "maxHp": 6000,
+    "armor": 80,
+    "elementalModifiers": {
+      "PHYSICAL": 0.8,
+      "FIRE": 1.1,
+      "ICE": 0.9,
+      "DEATH": 0.2,
+      "ENERGY": 0.9,
+      "HOLY": 1.1,
+      "HEAL": 1,
+      "EARTH": 1
+    },
+    "combatType": "MELEE",
+    "baseDamagePerTurn": 1500,
+    "damageElement": "PHYSICAL"
+  },
+  "demon": {
+    "id": "demon",
+    "name": "Demon",
+    "maxHp": 8200,
+    "armor": 60,
+    "elementalModifiers": {
+      "PHYSICAL": 1,
+      "FIRE": 0,
+      "ICE": 1.1,
+      "ENERGY": 0.5,
+      "DEATH": 0.8,
+      "HOLY": 1,
+      "EARTH": 0.2,
+      "HEAL": 1
+    },
+    "combatType": "MELEE",
+    "baseDamagePerTurn": 800,
+    "damageElement": "FIRE"
+  },
+  "hellflayer": {
+    "id": "hellflayer",
+    "name": "Hellflayer",
+    "maxHp": 12000,
+    "armor": 90,
+    "elementalModifiers": {
+      "PHYSICAL": 0.9,
+      "FIRE": 0.2,
+      "ICE": 1.1,
+      "ENERGY": 1.1,
+      "DEATH": 0.5,
+      "HOLY": 1,
+      "EARTH": 1,
+      "HEAL": 1
+    },
+    "combatType": "MELEE",
+    "baseDamagePerTurn": 1800,
+    "damageElement": "FIRE"
+  },
+  "juggernaut": {
+    "id": "juggernaut",
+    "name": "Juggernaut",
+    "maxHp": 20000,
+    "armor": 120,
+    "elementalModifiers": {
+      "PHYSICAL": 0.8,
+      "FIRE": 0.9,
+      "ICE": 0.9,
+      "ENERGY": 1.1,
+      "DEATH": 1,
+      "HOLY": 1,
+      "EARTH": 0.9,
+      "HEAL": 1
+    },
+    "combatType": "MELEE",
+    "baseDamagePerTurn": 2200,
+    "damageElement": "PHYSICAL"
+  }
+}
