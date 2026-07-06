@@ -7,21 +7,32 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "test": "ts-node tests/simulator.test.ts"
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "build:maestro": "tsc src/maestro/server.ts --esModuleInterop --outDir dist/maestro",
+    "start:maestro": "node dist/maestro/server.js",
+    "start:worker": "tsx src/worker/worker.ts"
   },
   "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
     "puppeteer": "^25.3.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "recharts": "^3.9.2",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3",
     "zustand": "^5.0.14"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
     "@types/node": "^20.0.0",
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^4.7.0",
     "ts-node": "^10.9.1",
+    "tsx": "^4.23.0",
     "typescript": "^5.0.0",
     "vite": "^5.0.0"
   }

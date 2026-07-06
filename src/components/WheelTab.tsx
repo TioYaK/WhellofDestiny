@@ -1,10 +1,16 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useEngineStore } from '../store/engineStore';
 import { Quadrant } from '../core/TibiaWheelManager';
+import { io } from 'socket.io-client';
+
+// @ts-ignore
+const MAESTRO_URL = (import.meta as any).env?.VITE_MAESTRO_URL || 'http://localhost:3000';
 
 const WheelTab: React.FC = () => {
   const { wheelManager, forceUpdateWheel, gemSockets, setGemSocket } = useEngineStore();
   const [hoveredNode, setHoveredNode] = useState<any>(null);
+  const [isOptimizing, setIsOptimizing] = useState(false);
+  const [optimizerStatus, setOptimizerStatus] = useState<string>('');
 
   // Compile base mods and inject gems
   const baseMods = wheelManager.compileActiveModifiers();
@@ -269,8 +275,54 @@ const WheelTab: React.FC = () => {
           </div>
 
           <div className="config-card" style={{borderColor: '#10b981'}}>
-            <h3 style={{color: '#10b981'}}>Global Stats Summary</h3>
-            <div style={{marginTop: '10px', background: '#0f172a', padding: '10px', borderRadius: '4px', border: '1px solid #334155'}}>
+            <div style={{display: 'flex', gap: '20px', marginTop: '20px', alignItems: 'flex-start'}}>
+        
+        {/* NEW AI OPTIMIZER BUTTON */}
+        <div style={{flex: 1, background: 'rgba(234, 179, 8, 0.05)', padding: '15px', borderRadius: '6px', border: '1px solid rgba(234, 179, 8, 0.2)'}}>
+           <h3 style={{color: '#eab308'}}>🤖 Tibia@Home Grid Optimizer</h3>
+           <p style={{fontSize: '12px', color: '#94a3b8', marginBottom: '10px'}}>
+             Distribute Wheel permutations to your local cluster of PC workers to find the perfect path.
+           </p>
+           <button 
+             onClick={() => {
+               if (isOptimizing) return;
+               setIsOptimizing(true);
+               setOptimizerStatus('Connecting to Grid...');
+               
+               const socket = io(MAESTRO_URL);
+               socket.on('connect', () => {
+                 setOptimizerStatus('Submitting Job to Queue...');
+                 socket.emit('submit_job', { action: 'optimize_wheel', level: 800 });
+               });
+               
+               socket.on('job_completed', (data) => {
+                 setOptimizerStatus(`Success! Path calculated in background. (DPS: ${data.result.dps})`);
+                 setTimeout(() => {
+                    setIsOptimizing(false);
+                    setOptimizerStatus('');
+                    socket.disconnect();
+                 }, 4000);
+               });
+             }}
+             disabled={isOptimizing}
+             style={{
+               width: '100%',
+               padding: '12px',
+               background: isOptimizing ? '#475569' : '#eab308',
+               color: isOptimizing ? '#94a3b8' : '#000',
+               border: 'none',
+               borderRadius: '4px',
+               fontWeight: 'bold',
+               cursor: isOptimizing ? 'not-allowed' : 'pointer',
+               boxShadow: isOptimizing ? 'none' : '0 0 15px rgba(234,179,8,0.2)'
+             }}
+           >
+             {isOptimizing ? 'Working... ' + optimizerStatus : 'Optimize Wheel (Grid Computing)'}
+           </button>
+        </div>
+
+        <div style={{flex: 1, background: '#0f172a', padding: '15px', borderRadius: '6px', border: '1px solid #1e293b'}}>
+              <h3 style={{color: '#10b981'}}>Global Stats Summary</h3>
               <ul style={{margin: '0', paddingLeft: '15px', color: '#cbd5e1', fontSize: '12px', listStyleType: 'square'}}>
                 {Object.entries(activeMods.flatMods).map(([stat, val]) => (
                   <li key={stat}>+{val} {stat.replace('_', ' ')}</li>
@@ -289,6 +341,7 @@ const WheelTab: React.FC = () => {
                  <li>No active modifiers.</li>}
               </ul>
             </div>
+          </div>
           </div>
         </div>
       </div>
