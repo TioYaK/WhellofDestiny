@@ -7,6 +7,9 @@ import { useSimulation } from '../hooks/useSimulation';
 const EquipTab: React.FC = () => {
   const { vocation, activeGear, setGearSlot, setImbuement } = useEngineStore();
   const { runAI } = useSimulation();
+  
+  // Local state to hold what the user is currently typing for each slot
+  const [searchTerms, setSearchTerms] = useState<Record<string, string>>({});
 
   const slots = [
     EquipmentSlot.HELMET,
@@ -34,6 +37,9 @@ const EquipTab: React.FC = () => {
             const activeItem = activeGear[slotType.toLowerCase() as keyof typeof activeGear]?.item;
             const imbuements = activeGear[slotType.toLowerCase() as keyof typeof activeGear]?.activeImbuements || [];
 
+            // If user hasn't typed anything, show the currently active item name
+            const currentInputValue = searchTerms[slotType] !== undefined ? searchTerms[slotType] : (activeItem ? activeItem.name : '');
+
             return (
               <div key={slotType} style={{display: 'flex', flexDirection: 'column', gap: '5px', background: '#1e293b', padding: '8px', borderRadius: '6px', border: '1px solid #334155'}}>
                 <div style={{display: 'flex', alignItems: 'center', justifyContent: 'space-between'}}>
@@ -52,14 +58,26 @@ const EquipTab: React.FC = () => {
                   list={`dl-${slotType}`} 
                   className="gear-input" 
                   placeholder={`Search ${slotType}...`}
-                  value={activeItem ? activeItem.name : ''}
+                  value={currentInputValue}
                   onChange={(e) => {
                     const typedName = e.target.value;
+                    setSearchTerms(prev => ({ ...prev, [slotType]: typedName }));
+                    
                     const foundItem = availableItems.find(i => i.name === typedName);
-                    if (foundItem) setGearSlot(slotType, foundItem);
-                    else if (typedName === '') setGearSlot(slotType, undefined);
+                    if (foundItem) {
+                      setGearSlot(slotType, foundItem);
+                    } else if (typedName === '') {
+                      setGearSlot(slotType, undefined);
+                    }
                   }}
-                  onFocus={(e) => { e.target.value = ''; }}
+                  onBlur={() => {
+                    // Reset the typing box back to the active item name when they click away
+                    setSearchTerms(prev => ({ ...prev, [slotType]: undefined as any }));
+                  }}
+                  onFocus={(e) => { 
+                    e.target.value = ''; 
+                    setSearchTerms(prev => ({ ...prev, [slotType]: '' }));
+                  }}
                   style={{background: '#0f172a', color: '#f8fafc', border: '1px solid #475569', padding: '4px', borderRadius: '4px', width: '100%', boxSizing: 'border-box', fontSize: '11px'}}
                 />
                 <datalist id={`dl-${slotType}`}>
