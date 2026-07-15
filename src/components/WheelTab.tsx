@@ -292,11 +292,23 @@ const WheelTab: React.FC = () => {
                const socket = io(MAESTRO_URL);
                socket.on('connect', () => {
                  setOptimizerStatus('Submitting Job to Queue...');
-                 socket.emit('submit_job', { action: 'optimize_wheel', level: 800 });
+                 // We must clone the state down to raw objects because socket.io serializes it
+                 const rawState = JSON.parse(JSON.stringify(useEngineStore.getState()));
+                 socket.emit('submit_job', { action: 'optimize_wheel', level: rawState.level, state: rawState });
                });
                
                socket.on('job_completed', (data) => {
                  setOptimizerStatus(`Success! Path calculated in background. (DPS: ${data.result.dps})`);
+                 
+                 if (data.result.bestPath && Array.isArray(data.result.bestPath)) {
+                   // Reseta a roda atual e aloca os novos nós sequencialmente
+                   wheelManager.resetWheel();
+                   data.result.bestPath.forEach((nodeId: string) => {
+                       wheelManager.allocatePoint(nodeId);
+                   });
+                   forceUpdateWheel();
+                 }
+
                  setTimeout(() => {
                     setIsOptimizing(false);
                     setOptimizerStatus('');

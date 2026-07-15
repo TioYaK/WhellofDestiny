@@ -117,6 +117,13 @@ export class TibiaWheelManager {
     return true;
   }
 
+  public resetWheel(): void {
+    this.state.nodes.forEach(node => {
+      node.currentPoints = 0;
+    });
+    this.recalculateStateTotals();
+  }
+
   /**
    * MÓDULO 3: HIGIENE DE GRAFO (DE-allocatePoint)
    * Valida em cascata (DFS-like) se a remoção deste ponto corrompe a integridade de nós dependentes.
